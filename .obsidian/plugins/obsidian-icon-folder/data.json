@@ -1,0 +1,120 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "☪",
+      "LiComponent",
+      "LiApple",
+      "LiSchool",
+      "FabDocker"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Lista de objetivos.md": "LiMountainSnow",
+  "Glossário/Termos": "LiAmpersand",
+  "Glossário": "LiBookMarked",
+  "midias": {
+    "iconName": "LiFileImage",
+    "iconColor": "#00ff55"
+  },
+  "Glossário/Termos/Banco de dados.md": "LiDatabase",
+  "midias/Docs": "LiFile",
+  "Glossário/Termos/Backup.md": "LiDatabaseBackup",
+  "Tecnologia/Sistemas Operacionais": "LiComputer",
+  "Tecnologia/Sistemas Operacionais/Arquiteturas": "LiComputer",
+  "Tecnologia/Sistemas Operacionais/Linux": "FabLinux",
+  "Tecnologia/Sistemas Operacionais/Linux/Linux.md": "FabLinux",
+  "Tecnologia/Sistemas Operacionais/Linux/Utilitários": "LiToolCase",
+  "Tecnologia/Sistemas Operacionais/Linux/Distribuições Linux/Debian.md": "FabDebian",
+  "Tecnologia/Sistemas Operacionais/Linux/Distribuições Linux/Ubuntu.md": "FabUbuntu",
+  "Tecnologia/Inteligência Artificial": {
+    "iconName": "LiBrain",
+    "iconColor": "#fd96dc"
+  },
+  "Tecnologia/Infraestrutura": "LiServer",
+  "Tecnologia/Infraestrutura/Cloud": "LiCloudy",
+  "Tecnologia/Infraestrutura/Firewall.md": "LiBrickWallFire",
+  "Tecnologia/Infraestrutura/Portas": "LiDoorOpen",
+  "Tecnologia/Infraestrutura/Protocolos de Comunicação": "FabConnectdevelop",
+  "Tecnologia/Infraestrutura/Hardware": "LiLanguages",
+  "Tecnologia/Ferramentas e Softwares": {
+    "iconName": "LiToolCase",
+    "iconColor": "#bababa"
+  },
+  "Tecnologia/Ferramentas e Softwares/Git.md": "FabGit",
+  "Tecnologia/Ferramentas e Softwares/GitHub Actions.md": "FabSquareGithub",
+  "Tecnologia/Ferramentas e Softwares/GitHub.md": "FabGithub",
+  "Tecnologia/Ferramentas e Softwares/GitLab.md": "FabGitlab",
+  "Tecnologia/Desenvolvimento": "LiCode2",
+  "Tecnologia/Desenvolvimento/API - Interface de Programação de Aplicações.md": "LiPlugZap2",
+  "Tecnologia/Desenvolvimento/WordPress.md": "FabWordpress",
+  "Tecnologia/Desenvolvimento/npm - Node Package Manager.md": "FabNpm",
+  "Tecnologia": {
+    "iconName": "LiComputer",
+    "iconColor": "#00ffcc"
+  },
+  "Tecnologia/Sistemas Operacionais/Linux/Distribuições Linux": "FiArchive",
+  "Tecnologia/Gerenciador de Pacotes.md": "LiPackageOpen",
+  "Tecnologia/Sistemas Operacionais/Linux/Comandos": "LiCodeXml",
+  "Tecnologia/Extensão de arquivos": "LiFiles",
+  "Pedro Netto": "LiCircleUser",
+  "Pedro Netto/Diario": "LiNotebook",
+  "Pedro Netto/Projetos": "LiSplitSquareHorizontal",
+  "Tecnologia/Desenvolvimento/Linguagem/Python": "FabPython",
+  "Tecnologia/Desenvolvimento/Linguagem/Python/Django": "FabPython",
+  "Tecnologia/Desenvolvimento/Linguagem/Python/Python.md": "FabPython",
+  "Tecnologia/Desenvolvimento/Linguagem/React": "FabReact",
+  "Tecnologia/Desenvolvimento/Linguagem/React/React.md": "FabReact",
+  "Tecnologia/Desenvolvimento/Linguagem/React/Vue.md": "FabVuejs",
+  "Tecnologia/Desenvolvimento/Linguagem/CSS.md": "FabCss3Alt",
+  "Tecnologia/Desenvolvimento/Linguagem/HTML.md": "FabHtml5",
+  "Tecnologia/Desenvolvimento/Linguagem/Javascript.md": "FabJs",
+  "Tecnologia/Desenvolvimento/Linguagem/Node.js.md": "FabNodeJs",
+  "Tecnologia/Desenvolvimento/Linguagem/PHP.md": "FabPhp",
+  "Tecnologia/Sistemas Operacionais/Windows": "FabWindows",
+  "Tecnologia/Desenvolvimento/Linguagem/Rust": "FabRust",
+  "Tecnologia/Desenvolvimento/Linguagem/Rust/Rust.md": "FabRust",
+  "Certificações": {
+    "iconName": "LiAward",
+    "iconColor": "#c8ff00"
+  },
+  "Pedro Netto/Artigos": "LiNewspaper",
+  "Pedro Netto/Entretenimento": "LiTv",
+  "Teorias": {
+    "iconName": "LiTestTubeDiagonal",
+    "iconColor": "#00ffb3"
+  },
+  "Tecnologia/Ferramentas e Softwares/Docker": "FabDocker",
+  "Pedro Netto/Fatec": "LiSchool",
+  "Tecnologia/Ferramentas e Softwares/Docker/Docker.md": "FabDocker",
+  "Física": {
+    "iconName": "LiApple",
+    "iconColor": "#ff0000"
+  },
+  "Eletrônica": "LiComponent",
+  "Religião": "☪"
+}

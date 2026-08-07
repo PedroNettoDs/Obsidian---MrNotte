@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Tecnologia  ",
+      "color": {
+        "a": 1,
+        "rgb": 5417696
+      }
+    },
+    {
+      "query": "path:Religião ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Glossário  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 2.41376790123457,
+  "lineSizeMultiplier": 0.462479012345679,
+  "collapse-forces": false,
+  "centerStrength": 0.377382716049383,
+  "repelStrength": 10,
+  "linkStrength": 0.567012345679012,
+  "linkDistance": 250,
+  "scale": 0.13348388671875,
+  "close": true
+}
