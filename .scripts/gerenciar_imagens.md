@@ -79,6 +79,42 @@ Comportamento importante:
 - Com `--todas`, o script imprime um resumo no final: quantas notas mudaram,
   tamanho total antes/depois, e a lista de imagens puladas em cada categoria.
 
+## `desconverter` — reverter embeds base64 de volta para arquivo em `/midias`
+
+Varre **todas** as notas do vault procurando embeds no formato que o
+`embutir` gera (`![|tamanho](data:image/webp;base64,...)`), decodifica o
+base64, converte de WebP para **JPEG** e salva em `/midias` com nome
+incremental (`image1.jpg`, `image2.jpg`, `image3.jpg`, ...) — continuando a
+numeração a partir do maior `imageN` já existente, pra não sobrescrever
+nada. Em seguida reescreve a nota trocando o embed base64 de volta para
+`![[imageN.jpg|tamanho]]`.
+
+```bash
+python3 .scripts/gerenciar_imagens.py desconverter
+
+# Ajustar qualidade do JPEG gerado (padrão: 90)
+python3 .scripts/gerenciar_imagens.py desconverter --qualidade 95
+```
+
+**Atenção**: não existe opção pra reverter uma imagem específica — o
+comando sempre varre o vault inteiro e reverte **todo** embed base64 que
+encontrar. Se só uma parte das notas foi convertida com `embutir`, rodar
+`desconverter` reverte todas de uma vez.
+
+Comportamento importante:
+- Se a mesma imagem em base64 aparecer em mais de uma nota (era o caso de
+  imagens usadas em 2 lugares antes do `embutir`), o script gera **um único
+  arquivo** `imageN.jpg` e aponta as duas notas pra ele — não duplica.
+- Como WebP com perdas → JPEG é uma segunda camada de compressão com
+  perdas, o resultado não é bit-a-bit igual ao PNG original — pra máxima
+  fidelidade, seria melhor ter mantido o arquivo original em `_lixeira` em
+  vez de já ter apagado.
+- Imagens com transparência (RGBA) recebem fundo branco antes de virar
+  JPEG, já que esse formato não suporta canal alpha.
+- Se alguma imagem falhar ao decodificar/converter, o embed original é
+  mantido intacto naquela nota (nada quebra) e a falha aparece no resumo
+  final.
+
 ## Fluxo recomendado
 
 1. `embutir --todas` (ou por imagem) para embutir o que for necessário.

@@ -3,6 +3,7 @@
 
 import argparse
 import base64
+import hashlib
 import io
 import os
 import re
@@ -20,6 +21,7 @@ IGNORED_DIRS = {".git", ".obsidian", ".smart-env", ".trash", "_lixeira"}
 
 EMBED_RE = re.compile(r"!\[\[([^\]]+)\]\]")
 MD_IMAGE_RE = re.compile(r"!\[[^\]]*\]\(([^)\s]+)\)")
+DATA_URI_RE = re.compile(r"!\[(\|[^\]]*)?\]\(data:image/webp;base64,([A-Za-z0-9+/=]+)\)")
 
 
 def iter_markdown_files():
@@ -207,6 +209,87 @@ def cmd_embutir(args):
         print("Nada para fazer.")
 
 
+def cmd_desconverter(args):
+    try:
+        from PIL import Image
+    except ImportError:
+        print("Pillow não está instalado. Rode: pip install pillow")
+        sys.exit(1)
+
+    usados = set()
+    padrao_nome = re.compile(r"^image(\d+)\.", re.IGNORECASE)
+    for img in iter_midias_images():
+        m = padrao_nome.match(img.name)
+        if m:
+            usados.add(int(m.group(1)))
+
+    contador = {"n": 1}
+
+    def novo_nome():
+        while contador["n"] in usados:
+            contador["n"] += 1
+        n = contador["n"]
+        usados.add(n)
+        contador["n"] += 1
+        return f"image{n}.jpg"
+
+    cache_base64 = {}
+    imagens_criadas = []
+    falhas = []
+    notas_alteradas = set()
+
+    for md_path in iter_markdown_files():
+        texto = md_path.read_text(encoding="utf-8", errors="ignore")
+        if not DATA_URI_RE.search(texto):
+            continue
+
+        def substituir(m):
+            alt, b64 = m.group(1), m.group(2)
+            chave = hashlib.sha1(b64.encode("ascii")).hexdigest()
+
+            if chave not in cache_base64:
+                try:
+                    dados = base64.b64decode(b64)
+                    with Image.open(io.BytesIO(dados)) as img:
+                        if img.mode in ("RGBA", "LA") or (img.mode == "P" and "transparency" in img.info):
+                            img = img.convert("RGBA")
+                            fundo = Image.new("RGB", img.size, (255, 255, 255))
+                            fundo.paste(img, mask=img.split()[-1])
+                            img = fundo
+                        else:
+                            img = img.convert("RGB")
+                        nome_arquivo = novo_nome()
+                        img.save(MIDIAS_DIR / nome_arquivo, format="JPEG", quality=args.qualidade)
+                except Exception as e:
+                    falhas.append(str(e))
+                    return m.group(0)
+                cache_base64[chave] = nome_arquivo
+                imagens_criadas.append(nome_arquivo)
+
+            nome_arquivo = cache_base64[chave]
+            tamanho = (alt or "").lstrip("|")
+            sufixo = f"|{tamanho}" if tamanho else ""
+            return f"![[{nome_arquivo}{sufixo}]]"
+
+        novo_texto = DATA_URI_RE.sub(substituir, texto)
+        if novo_texto != texto:
+            md_path.write_text(novo_texto, encoding="utf-8")
+            notas_alteradas.add(md_path)
+
+    print(f"Notas alteradas: {len(notas_alteradas)}")
+    for nota in sorted(notas_alteradas):
+        print(f"  - {nota.relative_to(VAULT_ROOT)}")
+    print(f"\nImagens recriadas em /midias: {len(imagens_criadas)}")
+    for nome in imagens_criadas:
+        print(f"  - {nome}")
+    if falhas:
+        print(f"\n{len(falhas)} falha(s) ao decodificar/converter (embed original mantido intacto):")
+        for f in falhas:
+            print(f"  - {f}")
+    if not notas_alteradas:
+        print("Nenhum embed 'data:image/webp;base64,...' encontrado nas notas.")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Gerencia imagens órfãs em /midias e permite embuti-las como base64.")
     sub = parser.add_subparsers(dest="comando", required=True)
@@ -222,6 +305,10 @@ def main():
     p_embutir.add_argument("--qualidade", type=int, default=80, help="Qualidade do WebP, 0-100 (padrão: 80).")
     p_embutir.add_argument("--lossless", action="store_true", help="Usa WebP sem perdas (melhor para screenshots com texto fino).")
     p_embutir.set_defaults(func=cmd_embutir)
+
+    p_desconverter = sub.add_parser("desconverter", help="Reverte embeds 'data:image/webp;base64,...' de volta para arquivo em /midias + ![[...]].")
+    p_desconverter.add_argument("--qualidade", type=int, default=90, help="Qualidade do JPEG gerado, 0-100 (padrão: 90).")
+    p_desconverter.set_defaults(func=cmd_desconverter)
 
     args = parser.parse_args()
     args.func(args)
