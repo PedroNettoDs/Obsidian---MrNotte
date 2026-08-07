@@ -1,6 +1,5 @@
 ---
 Blogspot: https://nettotecnologias.blogspot.com/2026/07/tecla-de-atalho-menu-contexto-msi-gk20.html
-dg-publish: true
 ---
 _Préfacio_
 Tenho um teclado 'Vigor GK20' da [[MSI]], e nele possui uma tecla de dragão:

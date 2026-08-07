@@ -1,6 +1,5 @@
 ---
 Blogspot: https://nettotecnologias.blogspot.com/2026/07/minha-experiencia-com-linux.html
-dg-publish: true
 ---
 ## Inicio
 O principio da minha infância, meu pai conquistou um notebook e nele, eu passava muito tempo explorando, jogando e desvendando o sistema operacional.

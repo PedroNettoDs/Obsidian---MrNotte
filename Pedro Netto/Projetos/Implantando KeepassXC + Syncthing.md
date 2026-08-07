@@ -1,6 +1,5 @@
 ---
 Blogspot: https://nettotecnologias.blogspot.com/2026/07/implantando-keepassxc-syncthing.html
-dg-publish: true
 ---
 ### Préfacio
 Recentemente vi o [vídeo](https://www.youtube.com/watch?v=grjNrcol0j4) do Sr.Teclas e coincidentemente, começou a brotar notificações de tentativa de acesso no meu Outlook, mudei a senha para mais uma característica de senha minha, porém o invasor conseguiu novamente, portanto, vou prosseguir com a implantação de um cofre de senha self-hosted e que seja sincronizado com meu celular.

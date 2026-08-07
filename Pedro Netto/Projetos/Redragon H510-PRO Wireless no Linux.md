@@ -1,6 +1,5 @@
 ---
 Blogspot: https://nettotecnologias.blogspot.com/2026/07/redragon-h510-pro-wireless-no-linux.html
-dg-publish: true
 ---
 # (PipeWire/ALSA)
 

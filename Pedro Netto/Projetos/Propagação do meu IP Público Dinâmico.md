@@ -1,7 +1,6 @@
 ---
 tagstags:
 Blogspot: https://nettotecnologias.blogspot.com/2026/07/propagacao-do-meu-ip-publico-dinamico.html
-dg-publish: true
 ---
 ## _Prefácio_
 Tenho interesse de acessar meu computador da onde eu tiver, seja via [[RDP]], [[Apache Guacamole]], [[FTP]], [[MiniDLNA]] e entre outras formas.

@@ -1,6 +1,5 @@
 ---
 Blogspot: https://nettotecnologias.blogspot.com/2026/07/sincronizando-pastas-para-o-googledrive.html
-dg-publish: true
 ---
 Realizei o projeto anterior: [[Conectando o GoogleDrive com Rclone]], entretanto, estou ficando atritado de tentar acessar a pasta e ele demorar para mostrar os arquivos, dessa forma, vamos mudar a estruturação do projeto.
 

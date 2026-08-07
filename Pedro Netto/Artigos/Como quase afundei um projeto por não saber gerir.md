@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Rapaz, quem me conhece de perto, sabe que estou a um ano desenvolvendo uma aplicação que um 'parceiro' [Caio Gatti](https://www.instagram.com/caiogatti_/)!, eu já havia dito para meu atual sócio [Pedro Augusto Almeida](https://www.linkedin.com/preload/#) "precisamos começar a desenvolver um projeto"
 
 O projeto solicitado é o [submax.com.br](http://submax.com.br); é um projeto completo de gestão para personais trainers, sendo uma plataforma que une cadastros de alunos, rotinas de treino, avaliações físicas, exercícios, agendas.. porém com um diferencial: metodologia e cálculos do campo científico da educação física. _(sim, não é só puxar ferro, tem método, métricas e fórmulas para melhor aproveito muscular)_

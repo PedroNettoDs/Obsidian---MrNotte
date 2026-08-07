@@ -1,7 +1,6 @@
 ---
 tags:
   - virtualização
-dg-publish: true
 ---
 Nativamente o [[Linux]] não possui compatibilidade do pacote adobe
 

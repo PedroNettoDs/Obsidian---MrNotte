@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      or:
+        - "!Medium.isEmpty()"
+        - "!Blogspot.isEmpty()"
+        - "!Linkedin.isEmpty()"
+    order:
+      - file.name
+      - Blogspot
+      - Medium
+      - Linkedin

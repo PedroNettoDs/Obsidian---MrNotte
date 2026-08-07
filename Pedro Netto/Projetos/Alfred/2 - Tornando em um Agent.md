@@ -3,7 +3,6 @@ tags:
   - docker
   - Agent
   - InteligênciaArtificial
-dg-publish: true
 ---
 #### _Prefácio_
 Pois bem, já passou da hora de eu dar o próximo passo no Alfred, tornando-o em um [^1]**Agent**, com capacidade de acesso via Web e fluxos.

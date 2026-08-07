@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #### Nota pessoal
 Ao pesquisar, sobre formas de barrar meu vício, cheguei a conclusão que estava na hora de aprender mexer no [Firewall](), já havia ouvido falar sobre o [[Cloudflare]] Family (utilizo muito o [[DNS]]: 1.1.1.1 para poder entrar em sites de [[Torrent]])
 

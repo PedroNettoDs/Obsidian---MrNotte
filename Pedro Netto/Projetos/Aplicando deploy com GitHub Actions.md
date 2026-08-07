@@ -2,7 +2,6 @@
 Medium: https://medium.com/@MrNetinhu/aplicando-deploy-com-github-actions-3f6f52cb810e
 Linkedin: https://www.linkedin.com/pulse/aplicando-deploy-com-github-actions-pedro-henrique-netto-d1ksf/?trackingId=RJvw70YoRgC5GqiwADfrwg%3D%3D
 Blogspot: https://nettotecnologias.blogspot.com/2026/07/aplicando-deploy-com-github-actions.html
-dg-publish: true
 ---
 ### _Prefácio_
 Pois bem, eu possuo dois repositórios, Nettotech (meu curriculo online) e a wiki.nettotech.com.br (aonde vai parar essas notas que estou criando), porém até agora, eles estão na minha máquina pessoal, ou seja, sempre que ela desliga, tchau tchau site, entretanto, como estou começando a querer aparecer mais midiaticamente, preciso que elas fiquem fulltime online.

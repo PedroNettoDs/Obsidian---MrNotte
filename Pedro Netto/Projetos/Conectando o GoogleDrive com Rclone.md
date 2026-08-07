@@ -1,6 +1,5 @@
 ---
 Blogspot: https://nettotecnologias.blogspot.com/2026/07/conectando-o-googledrive-com-rclone.html
-dg-publish: true
 ---
 ### Nota pessoal
 

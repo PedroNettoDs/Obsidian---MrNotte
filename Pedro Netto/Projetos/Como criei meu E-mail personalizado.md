@@ -1,7 +1,6 @@
 ---
 Medium: https://medium.com/@mrpedronetinhu/configura%C3%A7%C3%A3o-de-e-mail-profissional-gratuito-1f504bb5fba7?sharedUserId=mrpedronetinhu
 Blogspot: https://nettotecnologias.blogspot.com/2026/07/como-criei-meu-e-mail-personalizado.html
-dg-publish: true
 ---
 # Configuração de E-mail Profissional
 

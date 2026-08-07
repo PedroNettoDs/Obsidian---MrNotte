@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ### Prefácio
 Pois bem, estudando sobre [[SSL]]/[[TLS]] e [[HTTPS (Hypertext Transfer Protocol Secure)|HTTPS]], percebi que queria muito ver algo 'prático', então lembrei do Cisco Packet Tracer, o programa de simulação da [[Cisco]], mas.. nunca instalei no Linux.
 

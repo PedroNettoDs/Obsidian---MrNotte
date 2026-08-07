@@ -4,7 +4,6 @@ aliases:
   - Open Source
   - OpenSource
   - Open-Source
-cssclasses:
 ---
 **Código aberto (open source)** refere-se a um modelo de desenvolvimento e distribuição onde o código-fonte (instruções) de um software ou projeto é publicamente acessível.
 

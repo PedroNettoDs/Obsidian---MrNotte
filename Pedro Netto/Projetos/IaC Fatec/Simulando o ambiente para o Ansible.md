@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 Pois bem dei inicio de fato ao projeto, com isso, já montei na sala de pesquisa o computador que será o servidor.
 
 Entretanto, não fiz um teste na minha máquina antes :D (jenio), portanto, estou nesse momento pesquisando como criar VM's de fato no meu Kubuntu.

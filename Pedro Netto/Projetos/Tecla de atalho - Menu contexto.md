@@ -1,6 +1,5 @@
 ---
 tags:
-dg-home: true
 ---
 Com o fracasso do [[Tecla de atalho -  Menu contexto - 'MSI GK20']], seguiremos com um plano mais pé no chão.
 

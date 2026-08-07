@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ### Prefacio
 Estava estudando sobre [[Criptografia]] e [[SSL]]/[[TLS]] e acabei compreendendo que eles são fundamentais para que o [[HTTP (Hypertext Transfer Protocol)|HTTP]] tenha o S de Seguro, se tornando assim o [[HTTPS (Hypertext Transfer Protocol Secure)|HTTPS]].
 Porém, percebi que eu estava somente no entendimento teórico, queria elaborar algo mais prático, dessa forma, pedi auxilio ao Claude para montar um ambiente de teste.
