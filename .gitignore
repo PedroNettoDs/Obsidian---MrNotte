@@ -5,6 +5,10 @@
 # Ignore Smart Environment folder
 .smart-env
 
+# Cache de bytecode do Python
+__pycache__/
+*.pyc
+
 # Script de gerenciamento de imagens (mantido fora do git)
 
 # Imagens órfãs movidas pelo .scripts/gerenciar_imagens.py (não deve ir para o repo)
