@@ -1,8 +1,11 @@
 ./trash
 /.obsidian
-/midias
-
 
 
 # Ignore Smart Environment folder
 .smart-env
+
+# Script de gerenciamento de imagens (mantido fora do git)
+
+# Imagens órfãs movidas pelo .scripts/gerenciar_imagens.py (não deve ir para o repo)
+midias/_lixeira/
