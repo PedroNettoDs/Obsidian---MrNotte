@@ -1,0 +1,1 @@
+A certificação **PSPO (Professional [[Scrum]][[ Product Owner]])**, emitida pela Scrum.org,

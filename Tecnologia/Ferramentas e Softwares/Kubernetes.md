@@ -1,0 +1,1 @@
+https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExaWFGaWtVVjJ5d3BSNUFEZ3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7knZtq4xUc5M48aKOj4-kzipTAT-n2N6ubt1v1Y_Dr3ucqGUecP2u8TORhTg_aem_Ue07vYgBM1unpGkzfd06JQ

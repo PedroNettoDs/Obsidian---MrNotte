@@ -1,0 +1,1 @@
+O [[Windows|Ruimdows]] é tão Ruim, que precisou implementar nele um subsistema do [[Linux]]

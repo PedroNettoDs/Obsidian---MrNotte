@@ -1,0 +1,1 @@
+Ferramenta de observabilidade baseada em nuvem, que monitora desempenho de aplicações, infraestrutura e logs em tempo real

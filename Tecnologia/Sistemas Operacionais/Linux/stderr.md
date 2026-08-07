@@ -1,0 +1,1 @@
+Identificada pelo número 2, é destinada a mensagens de erros e insucessos.

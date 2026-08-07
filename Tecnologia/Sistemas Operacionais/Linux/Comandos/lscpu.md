@@ -1,0 +1,1 @@
+Com base no comando `ls`, do [[Linux]]/[[Unix]] de 'listar' e incluindo 'cpu' na frente, serve para justamente mostrar mais aprofundadamente informações do [[CPU|Processador]]

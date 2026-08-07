@@ -1,0 +1,1 @@
+Muitas vezes definidos como variáveis de **ambiente**, o environment, é exatamente isso, literalmente traduzindo: **environment** = **ambiente**.

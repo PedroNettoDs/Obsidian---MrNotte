@@ -1,0 +1,3 @@
+O SQS é usado para armazenar 'filas de requisições' e compartilhá-las com os outros componentes do sistema, garantindo a entrega e o processamento no momento correto.
+
+Para aplicações e microsserviços desacoplados, o Amazon SQS permite enviar, armazenar e recuperar mensagens entre diferentes componentes. Isso permite que cada parte funcione de forma mais eficiente e independente, sem depender diretamente das outras.

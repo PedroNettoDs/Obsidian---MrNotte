@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"69814b10aa9f2add","type":"group","x":-659,"y":-343,"width":1318,"height":687,"label":"TIpos de Instâncias"},
+		{"id":"c031d19acd58456d","type":"text","text":"**Otimizadas para HPC (High Performance Computing)**  \nProjetadas para simulações científicas e workloads de alta performance em larga escala.","x":213,"y":-190,"width":426,"height":147},
+		{"id":"4b8eaf92dc8ab2ac","type":"text","text":"**Otimizadas para computação**  \nIndicadas para aplicações que exigem alto processamento, como servidores web, jogos e inferência de Machine Learning.","x":-639,"y":-190,"width":426,"height":147},
+		{"id":"cd3151f4c978c616","type":"text","text":"**Otimizadas para memória**  \nIdeais para bancos de dados e aplicações analíticas que precisam manter grandes volumes de dados em memória.","x":-553,"y":-10,"width":426,"height":147},
+		{"id":"8cd56ce2f360cbb3","type":"text","text":"**Computação acelerada**  \nUtilizam hardware especializado (como GPUs) para tarefas intensivas, como cálculos matemáticos, IA e processamento de imagens.","x":-213,"y":177,"width":426,"height":147},
+		{"id":"4ba4e07f14144537","type":"text","text":"## Tipos de Instâncias Amazon [[EC2 - Elastic Compute Cloud|EC2]]","x":-138,"y":-323,"width":277,"height":80},
+		{"id":"2ff33c0b97ee8d6a","type":"text","text":"**Otimizadas para armazenamento**  \nFocadas em alta performance de leitura e gravação (I/O), indicadas para grandes volumes de dados.","x":127,"y":-10,"width":426,"height":147}
+	],
+	"edges":[
+		{"id":"281888bb13ef4954","fromNode":"4ba4e07f14144537","fromSide":"bottom","toNode":"c031d19acd58456d","toSide":"left","color":"2"},
+		{"id":"7525d75cecb8c443","fromNode":"4ba4e07f14144537","fromSide":"bottom","toNode":"4b8eaf92dc8ab2ac","toSide":"right","color":"2"},
+		{"id":"58ae250a5eb43a37","fromNode":"4ba4e07f14144537","fromSide":"bottom","toNode":"cd3151f4c978c616","toSide":"right","color":"2"},
+		{"id":"0ebf6261881942a9","fromNode":"4ba4e07f14144537","fromSide":"bottom","toNode":"8cd56ce2f360cbb3","toSide":"top","color":"2"},
+		{"id":"81e416ef71ae2bb9","fromNode":"4ba4e07f14144537","fromSide":"bottom","toNode":"2ff33c0b97ee8d6a","toSide":"left","color":"2"}
+	]
+}

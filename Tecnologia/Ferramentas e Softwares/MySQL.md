@@ -1,0 +1,1 @@
+É um [[Banco de dados]] que utiliza [[SQL]].

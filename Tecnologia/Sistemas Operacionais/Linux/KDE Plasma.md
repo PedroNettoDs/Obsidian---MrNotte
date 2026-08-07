@@ -1,0 +1,1 @@
+O KDE Plasma é um shell gráfico desenvolvido pela comunidade KDE para sistemas operacionais do tipo Unix

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"2f7dadaf5ab5dc2d","type":"group","x":-540,"y":-405,"width":1080,"height":810,"label":"Escalabilidade"},
+		{"id":"37848588a0eb5546","type":"text","text":"## **Formas de Escalar**\n\n### Escalabilidade Vertical (Scale Up)\n- Aumenta o poder da mesma máquina (CPU/RAM)\n### Escalabilidade Horizontal (Scale Out)\n- Aumenta a quantidade de máquinas, distribuindo carga","x":-500,"y":-345,"width":433,"height":326},
+		{"id":"5bafc53020d16cc8","type":"text","text":"## [[EC2 - Elastic Compute Cloud|EC2]] Auto Scaling","x":15,"y":-19,"width":154,"height":79},
+		{"id":"925ac61a691f1425","type":"text","text":"### Tráfego aumenta\nCria novas instâncias","x":220,"y":-282,"width":273,"height":100},
+		{"id":"e70332b1dc6054b8","type":"text","text":"### Tráfego diminui\nEncerras instâncias ociosas","x":220,"y":-182,"width":273,"height":100},
+		{"id":"9f7e5f9ed6ee9eb8","type":"text","text":"### **Lógica de Scaling**\n\n### Scaling Dinâmico (Reativa)\n- Reage a métricas em tempo real\n\n### Scaling Preditivo (Antecipa)\n- Usa histórico para prever 'picos'","x":-500,"y":105,"width":404,"height":260},
+		{"id":"ff502a8b65c7cb19","type":"text","text":"# Tráfego ☁️","x":-36,"y":-345,"width":205,"height":59}
+	],
+	"edges":[
+		{"id":"f9bd40b67c0e30a9","fromNode":"37848588a0eb5546","fromSide":"bottom","toNode":"5bafc53020d16cc8","toSide":"left","label":"Scale Out"},
+		{"id":"70be3505bc95f51a","fromNode":"925ac61a691f1425","fromSide":"left","toNode":"5bafc53020d16cc8","toSide":"top"},
+		{"id":"2b9f320d6dade0f7","fromNode":"e70332b1dc6054b8","fromSide":"left","toNode":"5bafc53020d16cc8","toSide":"top"},
+		{"id":"507e12917a46eb1e","fromNode":"9f7e5f9ed6ee9eb8","fromSide":"right","toNode":"5bafc53020d16cc8","toSide":"bottom"},
+		{"id":"62576d066629b000","fromNode":"ff502a8b65c7cb19","fromSide":"right","toNode":"925ac61a691f1425","toSide":"top"}
+	]
+}

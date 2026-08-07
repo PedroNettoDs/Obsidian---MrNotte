@@ -1,0 +1,1 @@
+Uncomplicated Firewall é uma firewall desenhada para ser de fácil utilização. Utiliza uma interface de linha de comandos, e usa iptables para configuração.

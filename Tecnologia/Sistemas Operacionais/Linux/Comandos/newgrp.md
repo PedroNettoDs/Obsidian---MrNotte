@@ -1,0 +1,1 @@
+Ativar um grupo para a sessão atual do terminal

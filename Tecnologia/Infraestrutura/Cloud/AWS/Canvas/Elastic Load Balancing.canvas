@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"eac9a5b7ea3ed6da","type":"group","x":-690,"y":-330,"width":1380,"height":660,"label":"Elastic Load Balancing"},
+		{"id":"80322ca4b7b6c891","type":"group","x":-230,"y":40,"width":863,"height":260,"label":"Baixa Demanda"},
+		{"id":"1c15380bab4f0272","type":"group","x":-230,"y":-270,"width":863,"height":260,"label":"Alta Demanda"},
+		{"id":"3d8c096bdddff461","type":"text","text":"## Client 🖥️","x":-210,"y":-250,"width":163,"height":60},
+		{"id":"42b2471e933d1021","type":"text","text":"## Client 🖥️","x":-210,"y":-170,"width":163,"height":60},
+		{"id":"4e710a79ca7a26ab","type":"text","text":"## Tráfego ☁️","x":33,"y":-170,"width":180,"height":60},
+		{"id":"c10b91820bdd887a","type":"text","text":"## Client 🖥️","x":-210,"y":-90,"width":163,"height":60},
+		{"id":"86464c5a6f395fef","type":"text","text":"## Server ","x":493,"y":-90,"width":120,"height":60},
+		{"id":"d6df8e19f5165d15","type":"text","text":"[[Elastic Load Balancing|AWS Elastic Load Balancer]] ","x":273,"y":-170,"width":163,"height":60},
+		{"id":"55cc7dc28cc12325","type":"text","text":"## Server ","x":493,"y":-250,"width":120,"height":60},
+		{"id":"738ec9cbcbb4f3c3","type":"text","text":"## Server ","x":493,"y":-170,"width":120,"height":60},
+		{"id":"50c40c800f5b93cd","type":"text","text":"## Client 🖥️","x":-210,"y":140,"width":163,"height":60},
+		{"id":"1ea35f77ca8fefc1","type":"text","text":"## Tráfego ☁️","x":33,"y":140,"width":180,"height":60},
+		{"id":"8334c1cf84d1f0ed","type":"text","text":"[[Elastic Load Balancing|AWS Elastic Load Balancer]] ","x":273,"y":140,"width":163,"height":60},
+		{"id":"6f39deef0cfd7969","type":"text","text":"## Server ","x":493,"y":140,"width":120,"height":60},
+		{"id":"80a3bb0f4da146d9","type":"text","text":"Se houver uma alta demanda, é criado servidores para comportar elas","x":-630,"y":-190,"width":280,"height":108},
+		{"id":"42dde69e0964ecff","type":"text","text":"Quando cai o tráfego, é encerrada os servidores ociosos","x":-615,"y":116,"width":250,"height":109}
+	],
+	"edges":[
+		{"id":"812a3caf7764e3e9","fromNode":"42dde69e0964ecff","fromSide":"right","toNode":"80322ca4b7b6c891","toSide":"left"},
+		{"id":"9031569460397f02","fromNode":"80a3bb0f4da146d9","fromSide":"right","toNode":"1c15380bab4f0272","toSide":"left"},
+		{"id":"70e3ee0d2337fb4f","fromNode":"3d8c096bdddff461","fromSide":"right","toNode":"4e710a79ca7a26ab","toSide":"left"},
+		{"id":"56625a0e1c8a1de8","fromNode":"42b2471e933d1021","fromSide":"right","toNode":"4e710a79ca7a26ab","toSide":"left"},
+		{"id":"b4d8245770fe69e9","fromNode":"4e710a79ca7a26ab","fromSide":"right","toNode":"d6df8e19f5165d15","toSide":"left"},
+		{"id":"343cc4d6344f64c9","fromNode":"c10b91820bdd887a","fromSide":"right","toNode":"4e710a79ca7a26ab","toSide":"left"},
+		{"id":"4abd022cb71cec3e","fromNode":"d6df8e19f5165d15","fromSide":"right","toNode":"86464c5a6f395fef","toSide":"left"},
+		{"id":"1a8d30ca901abc98","fromNode":"d6df8e19f5165d15","fromSide":"right","toNode":"55cc7dc28cc12325","toSide":"left"},
+		{"id":"f384f1e6898d950e","fromNode":"d6df8e19f5165d15","fromSide":"right","toNode":"738ec9cbcbb4f3c3","toSide":"left"},
+		{"id":"727fd0dab8e1bba2","fromNode":"50c40c800f5b93cd","fromSide":"right","toNode":"1ea35f77ca8fefc1","toSide":"left"},
+		{"id":"b320eb90e9e281d1","fromNode":"1ea35f77ca8fefc1","fromSide":"right","toNode":"8334c1cf84d1f0ed","toSide":"left"},
+		{"id":"a5556ba250dbf7f8","fromNode":"8334c1cf84d1f0ed","fromSide":"right","toNode":"6f39deef0cfd7969","toSide":"left"},
+		{"id":"550127a15a3bd206","fromNode":"80a3bb0f4da146d9","fromSide":"bottom","toNode":"42dde69e0964ecff","toSide":"top"}
+	]
+}

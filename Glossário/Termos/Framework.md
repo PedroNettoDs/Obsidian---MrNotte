@@ -1,0 +1,3 @@
+Um framework (ou estrutura)
+é um conjunto de componentes de software pré-fabricados, ferramentas, bibliotecas e regras de codificação que serve como base para desenvolver aplicações de forma mais rápida, segura e padronizada. 
+Ele funciona como um "esqueleto" reutilizável, permitindo que desenvolvedores foquem nas funcionalidades exclusivas do projeto em vez de recriar funcionalidades básicas do zero

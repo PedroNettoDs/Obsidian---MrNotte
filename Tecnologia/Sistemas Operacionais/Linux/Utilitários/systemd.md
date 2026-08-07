@@ -1,0 +1,1 @@
+O systemd é uma ferramenta poderosa que padroniza e moderniza a forma como um sistema [[Linux]] inicializa e gerencia seus componentes, substituindo ferramentas mais antigas e adicionando funcionalidades avançadas de controle e supervisão

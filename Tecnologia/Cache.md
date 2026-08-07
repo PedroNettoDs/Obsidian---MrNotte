@@ -1,0 +1,1 @@
+Tem o mesmo conceito dos Buffers, salvando informações de dados na memória RAM, pois é mais rápida que o disco

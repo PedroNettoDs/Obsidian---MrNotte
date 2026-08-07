@@ -1,0 +1,1 @@
+Serviço de e-mail da [[Oracle]], sendo o free-tier de 100 e-mails por hora e 3.000 por mês.

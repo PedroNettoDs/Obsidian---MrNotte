@@ -1,0 +1,1 @@
+Define a forma de transmissão em dois sentido simultaneamente, se um enviar o outro também pode baixar.

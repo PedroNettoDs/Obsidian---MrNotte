@@ -1,0 +1,1 @@
+Define a forma de transmissão em apenas um sentido por vez, se um enviar, espera finalizar de enviar para baixar.

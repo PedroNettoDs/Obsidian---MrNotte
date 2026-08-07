@@ -1,0 +1,1 @@
+Dedicada para o [[HTTP (Hypertext Transfer Protocol)]], permitindo a comunicação não criptografada entre navegadores e servidores

@@ -1,0 +1,2 @@
+Ferramenta de orquestração de [[Automação]], podendo ser configurados '[[Hooks|Webhook]]' para disparo de ações com base em [[Condições]] escritas (se isso ocorrer, faça isso)
+Podendo também fazer integração com [[Inteligência Artificial|IA]]

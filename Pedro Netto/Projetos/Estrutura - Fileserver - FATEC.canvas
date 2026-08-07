@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"4372405ce38b9222","x":-124,"y":-46,"width":250,"height":60,"type":"text","text":"### playbook.yml"},
+		{"id":"b7e6ae9c30491618","x":-540,"y":-76,"width":270,"height":90,"type":"text","text":"### group_vars/all.yml\nVariáveis globais"},
+		{"id":"ba7ed1c074d1f246","x":-500,"y":-220,"width":250,"height":104,"type":"text","text":"### inventory.ini\n\"Aonde está o servidor?\""},
+		{"id":"aa612e3bfc0f373f","x":-650,"y":120,"width":250,"height":82,"type":"text","text":"#### base\ninstala pacotes"},
+		{"id":"dfefaa0a078d9f7d","type":"text","text":"#### diretorios\nCria pastas","x":-374,"y":120,"width":250,"height":82},
+		{"id":"79e03dd23508a46b","type":"text","text":"#### samba\nCompartilhamento","x":-103,"y":120,"width":250,"height":82},
+		{"id":"7e36700c38478c41","type":"text","text":"#### quota\nlimites de disco","x":176,"y":120,"width":250,"height":82},
+		{"id":"dfc0e5118deea1ad","type":"text","text":"#### backup\n[[cron]]s [[rsync]]","x":456,"y":120,"width":250,"height":82},
+		{"id":"05057e9b0db25442","type":"text","text":"#### tasks/main.yml\nO que fazer (ações)","x":-375,"y":300,"width":250,"height":82},
+		{"id":"4e818959fce5740e","type":"text","text":"#### handlers/main.yml\nReações a mudanças","x":-103,"y":300,"width":250,"height":82},
+		{"id":"73814d9e3ed8f1a4","type":"text","text":"#### templates/smb.conf.j2\nArquivo com variáveis\nCompartilhamento","x":176,"y":300,"width":304,"height":100}
+	],
+	"edges":[
+		{"id":"1457de014a7ce322","fromNode":"ba7ed1c074d1f246","fromSide":"right","toNode":"4372405ce38b9222","toSide":"left"},
+		{"id":"7b67dbcfdbfe8aea","fromNode":"b7e6ae9c30491618","fromSide":"right","toNode":"4372405ce38b9222","toSide":"left"},
+		{"id":"3259087ded5285ae","fromNode":"4372405ce38b9222","fromSide":"bottom","toNode":"aa612e3bfc0f373f","toSide":"top"},
+		{"id":"a1956dd0c0da663a","fromNode":"4372405ce38b9222","fromSide":"bottom","toNode":"dfefaa0a078d9f7d","toSide":"top"},
+		{"id":"abae4b049e616162","fromNode":"4372405ce38b9222","fromSide":"bottom","toNode":"79e03dd23508a46b","toSide":"top"},
+		{"id":"919b4aec36747307","fromNode":"4372405ce38b9222","fromSide":"bottom","toNode":"7e36700c38478c41","toSide":"top"},
+		{"id":"a62e5c611e6aa020","fromNode":"4372405ce38b9222","fromSide":"bottom","toNode":"dfc0e5118deea1ad","toSide":"top"},
+		{"id":"fb609e272dce3ac6","fromNode":"79e03dd23508a46b","fromSide":"right","toNode":"7e36700c38478c41","toSide":"left"},
+		{"id":"ef5286115318a949","fromNode":"7e36700c38478c41","fromSide":"left","toNode":"79e03dd23508a46b","toSide":"right"},
+		{"id":"4c69e999b8a6e32c","fromNode":"79e03dd23508a46b","fromSide":"bottom","toNode":"05057e9b0db25442","toSide":"top"},
+		{"id":"b025f3438aff12c7","fromNode":"79e03dd23508a46b","fromSide":"bottom","toNode":"4e818959fce5740e","toSide":"top"},
+		{"id":"c27acc82efbe9af1","fromNode":"79e03dd23508a46b","fromSide":"bottom","toNode":"73814d9e3ed8f1a4","toSide":"top"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"275aaeabbe7e4721","type":"text","text":"# [[Elyon]]","x":-187,"y":-500,"width":125,"height":60},
+		{"id":"a0a02f5d7bb763c3","x":-187,"y":-360,"width":125,"height":60,"type":"text","text":"## [[YHWH]]"},
+		{"id":"8f185973c271fbf0","x":100,"y":-360,"width":140,"height":60,"type":"text","text":"### [[Asherah]]"}
+	],
+	"edges":[
+		{"id":"cdddaf2f635df754","fromNode":"275aaeabbe7e4721","fromSide":"bottom","toNode":"a0a02f5d7bb763c3","toSide":"top","label":"\n"},
+		{"id":"f4c4c2ebcf7eb0d2","fromNode":"8f185973c271fbf0","fromSide":"left","toNode":"a0a02f5d7bb763c3","toSide":"right","label":"Companheira"}
+	]
+}

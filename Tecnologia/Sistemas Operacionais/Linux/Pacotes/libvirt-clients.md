@@ -1,0 +1,1 @@
+Ferramentas (virsh, virt-install)

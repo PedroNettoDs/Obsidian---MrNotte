@@ -1,0 +1,1 @@
+Um #Protocolos de comunicação é um conjunto de regras e padrões que definem como dispositivos (computadores, celulares, sistemas industriais) trocam dados, garantindo que eles "falem a mesma língua", mesmo sendo de fabricantes diferentes, estabelecendo sintaxe, semântica e sincronização para uma comunicação eficiente e confiável

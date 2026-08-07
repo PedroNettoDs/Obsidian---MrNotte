@@ -1,0 +1,1 @@
+diferente de um banco de dados que você procura por 'nome de coluna', no vetorial, ele busca por 'semântica' (palavras semelhantes).

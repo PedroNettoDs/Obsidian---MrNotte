@@ -1,0 +1,1 @@
+é o [[Gerenciador de Pacotes]] do [[Rust]], sendo uma [[Biblioteca]] de programas feitos nessa linguagem

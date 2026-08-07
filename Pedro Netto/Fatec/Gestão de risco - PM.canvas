@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"38eb70f2cc4a07ca","type":"text","text":"Avaliar","x":140,"y":-320,"width":100,"height":50,"color":"1"},
+		{"id":"a5986b40ff0aecfc","type":"text","text":"Revisão e reporte dos riscos","x":-400,"y":-320,"width":180,"height":50,"color":"1"},
+		{"id":"c84b3adb34a0eb7d","type":"text","text":"Comunicação e Aprendizado","x":-173,"y":-320,"width":279,"height":60,"color":"4"},
+		{"id":"f761427d6a9ebd6a","type":"text","text":"Tratamento riscos","x":-129,"y":-200,"width":191,"height":50,"color":"1"},
+		{"id":"293fa2871f9b80b8","type":"text","text":"Identificação de risco","x":-141,"y":-440,"width":215,"height":50,"color":"1"},
+		{"id":"7978ccc8df6dda1b","type":"text","text":"Patrocinadores","x":-488,"y":-79,"width":177,"height":50,"color":"5"},
+		{"id":"4068db1c23696d64","type":"text","text":"Órgão governamental","x":-269,"y":-79,"width":236,"height":50,"color":"5"},
+		{"id":"d0c4f733a398b5ef","x":6,"y":-79,"width":134,"height":50,"color":"5","type":"text","text":"Parceiros"},
+		{"id":"d32b1edc6fa5b36b","x":-488,"y":37,"width":144,"height":50,"color":"6","type":"text","text":"Governança"},
+		{"id":"cff1bfb35b6dac34","x":-288,"y":37,"width":159,"height":50,"color":"6","type":"text","text":"Organização"},
+		{"id":"966cf7d61df3b1c2","x":-81,"y":37,"width":221,"height":50,"color":"6","type":"text","text":"Contexto Economico"},
+		{"id":"34425d5f065f7c09","x":190,"y":37,"width":230,"height":50,"color":"6","type":"text","text":"Expectativa População"},
+		{"id":"bda1813748997439","x":180,"y":-79,"width":250,"height":50,"color":"5","type":"text","text":"Organização Ampliada"}
+	],
+	"edges":[
+		{"id":"820ff56710769189","fromNode":"38eb70f2cc4a07ca","fromSide":"bottom","toNode":"f761427d6a9ebd6a","toSide":"right"},
+		{"id":"2d035ede381cf082","fromNode":"293fa2871f9b80b8","fromSide":"right","toNode":"38eb70f2cc4a07ca","toSide":"top"},
+		{"id":"50c514f625da7540","fromNode":"f761427d6a9ebd6a","fromSide":"left","toNode":"a5986b40ff0aecfc","toSide":"bottom"},
+		{"id":"f5a3126d05036967","fromNode":"a5986b40ff0aecfc","fromSide":"top","toNode":"293fa2871f9b80b8","toSide":"left"}
+	]
+}

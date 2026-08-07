@@ -1,0 +1,1 @@
+O [[Dêmonio]] de Maxwell se refere a um 'agente oculto' que controla a [[entropia]].

@@ -1,0 +1,1 @@
+Bloatwares são softwares pré-instalados nos sistemas, comumente desnecessários, que ocupam espaços em discos, consomem RAM/CPU.

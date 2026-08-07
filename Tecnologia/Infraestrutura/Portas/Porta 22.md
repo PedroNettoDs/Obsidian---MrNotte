@@ -1,0 +1,1 @@
+A porta 22 é o padrão utilizado para o protocolo [[SSH]] 

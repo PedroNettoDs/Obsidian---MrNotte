@@ -1,0 +1,5 @@
+---
+aliases:
+  - evdev
+  - Event Device
+---

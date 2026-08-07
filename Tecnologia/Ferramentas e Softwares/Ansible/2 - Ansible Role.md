@@ -1,0 +1,1 @@
+O **[[Ansible]] roles** são a organização dos playbooks

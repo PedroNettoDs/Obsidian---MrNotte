@@ -1,0 +1,1 @@
+Oracle, é uma empresa, que iniciou seu empreendimento com criação do seu sistema de [[Banco de dados]], assim hoje sendo uma gigantesca multinacional, que oferece diversas soluções de tecnologia e de infraestrutura [[Cloud Computing|Cloud]]
