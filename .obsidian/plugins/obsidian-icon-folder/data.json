@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlbum",
       "☪",
       "LiComponent",
       "LiApple",
-      "LiSchool",
-      "FabDocker"
+      "LiSchool"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -116,5 +116,5 @@
     "iconColor": "#ff0000"
   },
   "Eletrônica": "LiComponent",
-  "Religião": "☪"
+  "Religião": "LiAlbum"
 }

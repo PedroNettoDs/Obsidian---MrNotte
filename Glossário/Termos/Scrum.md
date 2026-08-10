@@ -1,0 +1,1 @@
+Um framework de 'metodologia' de gestão de projeto, que conta com ciclos de vida e de reunião

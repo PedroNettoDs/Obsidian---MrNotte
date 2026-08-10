@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e5c492cb073f4713","type":"text","text":"TSG","x":-115,"y":-143,"width":80,"height":60},
+		{"id":"eef998430dfbcf0d","type":"text","text":"Fase Finalização","x":-360,"y":-143,"width":160,"height":60},
+		{"id":"4639209851c26661","type":"text","text":"Fase de execução","x":-162,"y":-20,"width":175,"height":60},
+		{"id":"a040980fd116312f","type":"text","text":"Fase de análise","x":-153,"y":-280,"width":157,"height":60},
+		{"id":"4792b5f148bf4d5c","type":"text","text":"Fase de planejamento","x":60,"y":-143,"width":211,"height":60}
+	],
+	"edges":[
+		{"id":"5f5ed34f1f113046","fromNode":"a040980fd116312f","fromSide":"right","toNode":"4792b5f148bf4d5c","toSide":"top"},
+		{"id":"9df43689b0365079","fromNode":"4792b5f148bf4d5c","fromSide":"bottom","toNode":"4639209851c26661","toSide":"right"},
+		{"id":"340cae33dad0b2b3","fromNode":"4639209851c26661","fromSide":"left","toNode":"eef998430dfbcf0d","toSide":"bottom"},
+		{"id":"c203439ece80fe0e","fromNode":"eef998430dfbcf0d","fromSide":"top","toNode":"a040980fd116312f","toSide":"left"}
+	]
+}

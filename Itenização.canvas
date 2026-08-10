@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5ee130b008ada9fd","x":-251,"y":-158,"width":250,"height":60,"type":"text","text":"Definir etapas"},
+		{"id":"fe3adf3d146dbf0b","x":-200,"y":-80,"width":250,"height":60,"type":"text","text":"Determinar como implementar"},
+		{"id":"30e14862139dbf0c","x":-126,"y":0,"width":250,"height":60,"type":"text","text":"Analisar riscos"},
+		{"id":"0dab697f0414c26c","x":-60,"y":80,"width":250,"height":60,"type":"text","text":"estimar benefícios"}
+	],
+	"edges":[]
+}
