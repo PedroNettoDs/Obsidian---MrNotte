@@ -1,0 +1,1 @@
+Após compreensão do [[LAN]]

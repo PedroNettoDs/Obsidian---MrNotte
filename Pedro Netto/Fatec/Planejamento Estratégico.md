@@ -38,7 +38,7 @@ Como toda teoria, a Teoria de négocio precisa ser feito o teste.
  
 ---
 
-matriz BCG, para evitar ser um 'pato'
+matriz BCG, para evitar ser um 'pato' 
 
  
 

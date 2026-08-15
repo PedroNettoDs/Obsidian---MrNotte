@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pedro Netto/Fatec/Projeto de Redes de computadores.md",
+                "file": "Pedro Netto/Fatec/TG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projeto de Redes de computadores"
+              "title": "TG"
+            }
+          },
+          {
+            "id": "797f0a8eca65f5de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pedro Netto/Fatec/Segurança em redes de computadores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Segurança em redes de computadores"
             }
           },
           {
@@ -51,37 +65,9 @@
               "icon": "lucide-file",
               "title": "Sem título 1"
             }
-          },
-          {
-            "id": "37e70b54bebf350a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem título 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título 1"
-            }
-          },
-          {
-            "id": "3e9fd3c0cfadc7ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pedro Netto/Fatec/Planejamento Estratégico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Planejamento Estratégico"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "278a8c47ae870557",
@@ -237,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Pedro Netto/Fatec/Planejamento Estratégico.md"
+                "file": "Pedro Netto/Fatec/Segurança em redes de computadores.md"
               },
               "icon": "lucide-info",
               "title": "Propriedades dos arquivos"
@@ -257,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pedro Netto/Fatec/Planejamento Estratégico.md",
+                "file": "Pedro Netto/Fatec/Segurança em redes de computadores.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -301,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pedro Netto/Fatec/Planejamento Estratégico.md",
+                "file": "Pedro Netto/Fatec/Segurança em redes de computadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +318,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -347,33 +335,42 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3e9fd3c0cfadc7ba",
+  "active": "797f0a8eca65f5de",
   "lastOpenFiles": [
-    "Sem título 1.md",
-    "Pedro Netto/Fatec/Planejamento Estratégico.md",
-    "Itenização.canvas",
-    "Pedro Netto/Artigos/Composições musicais e sua frequência espiritual.md",
-    "Planta Projeto de Redes de computadores.canvas",
+    "Pedro Netto/Fatec/Tecnologias de Interligação de Redes Remotas.md",
+    "Pedro Netto/Fatec/TG.md",
+    "Pedro Netto/Fatec/Tecnologia e Ambiente.md",
+    "Pedro Netto/Fatec/Segurança em redes de computadores.md",
+    "Pedro Netto/Fatec/Sem título",
     "Pedro Netto/Fatec/Projeto de Redes de computadores.md",
-    "Planta Projeto de Redes de computadores.md",
-    "Pedro Netto/Projetos/Analisando como funciona a critografia do HTTPS.md",
-    "TSG.canvas",
-    "Tecnologia/Sistemas Operacionais/Linux/Linux.md",
-    "Criptografia.md",
-    "Glossário/Termos/Scrum.md",
-    "Certificações/Scrum Foundation.md",
-    "Sem título.md",
-    "Criptografia assimétrica.md",
-    "Desktop Enverioment.md",
-    "Física/Átomo.md",
-    "Física/Elétrons.md",
+    "Sem título 1.md",
+    "Itenização.canvas",
+    "Pedro Netto/Fatec/Planejamento Estratégico.md",
+    "WAN.md",
+    "Glossário/Badges.md",
+    "midias/Projeto Fileserver - Documento de Requisitos.pdf",
     "midias/Dados estruturados - exemplo.png",
     "midias/Árvore de Huffman.png",
-    "Tecnologia/Sistemas numéricos/Hexadecimal.md",
-    "Tecnologia/Sistemas numéricos/Sistemas numéricos.md",
-    "Tecnologia/Binário.md",
-    "Pedro Netto/Diario/2026-02-14.md",
-    "README.md",
+    "Física/Elétrons.md",
+    "Física/Átomo.md",
+    "Tecnologia/Glob.md",
+    "Tecnologia/Inteligência Artificial/RAG - Retrieval-Augmented Generation.md",
+    "Tecnologia/Sistemas Operacionais/Linux/Distribuições Linux/Kali.md",
+    "Pedro Netto/Fatec/Informações.md",
+    "Pedro Netto/Fatec/Fundamentos de Gestão de Projetos.md",
+    "Religião/Hinduísmo/Atma.md",
+    "Religião/Hinduísmo/Vishnu.md",
+    "Religião/Hinduísmo/Vaishnava.md",
+    "Religião/Hinduísmo/Védica.md",
+    "Religião/Hinduísmo/Sânscrito.md",
+    "Religião/Hinduísmo/Sadhana.md",
+    "Religião/Hinduísmo/Mahamantra.md",
+    "Religião/Hinduísmo/Krishna.md",
+    "Religião/Hinduísmo/Hinduísmo.md",
+    "Religião/Grega/Hercules.md",
+    "midias/2026-04-16 - Simbolo.canvas",
+    "Planta Projeto de Redes de computadores.canvas",
+    "TSG.canvas",
     "README.md.tmp.974602.551a4cd9c5d7",
     "midias/_lixeira/image86.jpg",
     "midias/_lixeira/image156.jpg",
@@ -387,18 +384,10 @@
     "scripts/gerenciar_imagens.py",
     "scripts/gerenciar_imagens.py.tmp.974602.a12fcdb224e3",
     "scripts",
-    "Glossário/Termos/Código aberto.md",
-    "Pedro Netto/Projetos/Tecla de atalho - Menu contexto.md",
-    "Pedro Netto/Projetos/Tecla de atalho -  Menu contexto - MSI GK20.md",
-    "Pedro Netto/Projetos/Subir um ambiente Cloud com Terraform/Subir um ambiente Cloud com Terraform.md",
-    "Pedro Netto/Projetos/Sincronizando pastas para o GoogleDrive.md",
     "Lista - Publicações.base",
     "Religião/Hinduísmo",
     "Religião/Grega",
-    "Religião/tree.pdf",
     "Religião/Hierarquias.canvas",
-    "Religião/Mitologia/Hinduísmo",
-    "midias/2026-04-16 - Simbolo.canvas",
     "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Definição de preço.canvas",
     "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Elastic Load Balancing.canvas",
     "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Escalabilidade.canvas",

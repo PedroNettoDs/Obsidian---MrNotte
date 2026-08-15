@@ -56,4 +56,4 @@ Fase Final: Propriamente dita, iremos instalar, preparar.
 
 ### Atividade
 
-![[Planta Projeto de Redes de computadores.canvas]]
+![[Planta Projeto de Redes de computadores.caonvas]]
