@@ -8,20 +8,105 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44cd681eb94ec994",
+            "id": "37e70b54bebf350a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pedro Netto/Fatec/Planejamento Estratégico.md",
+                "file": "Sem título 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planejamento Estratégico"
+              "title": "Sem título 1"
+            }
+          },
+          {
+            "id": "3099440f3a333fc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leitura/Fausto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fausto"
+            }
+          },
+          {
+            "id": "127187c6c80b2f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadow Copy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shadow Copy"
+            }
+          },
+          {
+            "id": "72f1c1bc295e1b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religião/Cristã/Arcanjos/Miguel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miguel"
+            }
+          },
+          {
+            "id": "064f6b168073e8d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mefistófeles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mefistófeles"
+            }
+          },
+          {
+            "id": "f44959d6b601672e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pedro Netto/Artigos/Riqueza.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Riqueza"
+            }
+          },
+          {
+            "id": "e48ab802c3f319ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cristianismo prega o Comunismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cristianismo prega o Comunismo"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "278a8c47ae870557",
@@ -93,7 +177,7 @@
       {
         "id": "1f2cd4260b484646",
         "type": "tabs",
-        "dimension": 34.94318181818182,
+        "dimension": 22.15909090909091,
         "children": [
           {
             "id": "58735fbc753db095",
@@ -163,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pedro Netto/Fatec/Planejamento Estratégico.md",
+                "file": "Pedro Netto/Fatec/Empreendedorismo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,7 +262,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Pedro Netto/Fatec/Planejamento Estratégico.md"
+                "file": "Pedro Netto/Fatec/Empreendedorismo.md"
               },
               "icon": "lucide-info",
               "title": "Propriedades dos arquivos"
@@ -190,7 +274,7 @@
       {
         "id": "0d7de0871069478a",
         "type": "tabs",
-        "dimension": 37.878787878787875,
+        "dimension": 34.94318181818182,
         "children": [
           {
             "id": "d450bbc9c8cfb6c5",
@@ -198,7 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pedro Netto/Fatec/Planejamento Estratégico.md",
+                "file": "Pedro Netto/Fatec/Empreendedorismo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,7 +305,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0273996452693905,
+                  "scale": 0.18462325977974683,
                   "close": true
                 }
               },
@@ -234,7 +318,7 @@
       {
         "id": "01b9f4b1aa54f869",
         "type": "tabs",
-        "dimension": 27.178030303030305,
+        "dimension": 42.89772727272727,
         "children": [
           {
             "id": "769152ea37279536",
@@ -242,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pedro Netto/Fatec/Planejamento Estratégico.md",
+                "file": "Pedro Netto/Fatec/Empreendedorismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,58 +373,59 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "44cd681eb94ec994",
+  "active": "fef2bea1d1e64568",
   "lastOpenFiles": [
-    "Pedro Netto/Fatec/TG.md",
-    "Sem título 1.md",
-    "Planta Projeto de Redes de computadores.canvas",
-    "Pedro Netto/Fatec/Projeto de Redes de computadores.md",
-    "TSG.canvas",
-    "mpv.md",
-    "N BB.md",
-    "Sem título.md",
-    "Itenização.canvas",
-    "Pedro Netto/Fatec/Segurança em redes de computadores.md",
-    "Pedro Netto/Fatec/Tecnologias de Interligação de Redes Remotas.md",
-    "Pedro Netto/Fatec/Tecnologia e Ambiente.md",
-    "Pedro Netto/Fatec/Sem título",
-    "Pedro Netto/Fatec/Planejamento Estratégico.md",
-    "WAN.md",
-    "Glossário/Badges.md",
-    "midias/Projeto Fileserver - Documento de Requisitos.pdf",
-    "midias/Dados estruturados - exemplo.png",
-    "midias/Árvore de Huffman.png",
-    "Física/Elétrons.md",
-    "Física/Átomo.md",
-    "Tecnologia/Glob.md",
-    "Tecnologia/Inteligência Artificial/RAG - Retrieval-Augmented Generation.md",
-    "Tecnologia/Sistemas Operacionais/Linux/Distribuições Linux/Kali.md",
-    "Pedro Netto/Fatec/Informações.md",
-    "Pedro Netto/Fatec/Fundamentos de Gestão de Projetos.md",
-    "Religião/Hinduísmo/Atma.md",
-    "Religião/Hinduísmo/Vishnu.md",
-    "Religião/Hinduísmo/Vaishnava.md",
-    "Religião/Hinduísmo/Védica.md",
-    "Religião/Hinduísmo/Sânscrito.md",
-    "Religião/Hinduísmo/Sadhana.md",
-    "midias/2026-04-16 - Simbolo.canvas",
-    "README.md.tmp.974602.551a4cd9c5d7",
-    "midias/_lixeira/image86.jpg",
-    "midias/_lixeira/image156.jpg",
-    "midias/_lixeira/image29.jpg",
-    "midias/_lixeira/image138.jpg",
-    "midias/_lixeira/image80.jpg",
-    "midias/_lixeira/image58.jpg",
-    "midias/_lixeira/image13.jpg",
-    "midias/_lixeira/image90.jpg",
+    "midias/_lixeira/Pasted image 20260816194102.png",
+    "midias/_lixeira/Pasted image 20260816130434.png",
+    "midias/_lixeira/Pasted image 20260816123448.png",
+    "midias/_lixeira/Pasted image 20260816123412.png",
+    "midias/_lixeira/Pasted image 20260816123356.png",
+    "midias/_lixeira/Pasted image 20260816123244.png",
+    "midias/_lixeira/Pasted image 20260816123308.png",
+    "midias/_lixeira/Pasted image 20260816123326.png",
+    "midias/_lixeira/Pasted image 20260816123141.png",
+    "midias/_lixeira/Pasted image 20260816122239.png",
     "midias/_lixeira",
+    "Religião/Cristã/Arcanjos/Miguel.md",
+    "Sem título.md",
+    "Shadow Copy.md",
+    "Quem sou eu?.md",
+    "Leitura/Fausto.md",
+    "Mefistófeles.md",
+    "Religião/Cristã/Arcanjos/Gabriel.md",
+    "Religião/Cristã/Arcanjos/Rafael.md",
+    "Religião/Cristã/Arcanjos",
+    "Religião/Cristã",
+    "midias/Pasted image 20260816194102.png",
+    "Pedro Netto/Artigos/Riqueza.md",
+    "Cristianismo prega o Comunismo.md",
+    "Tecnologia/Infraestrutura/Protocolos de Comunicação/HTTP (Hypertext Transfer Protocol).md",
+    "Pedro Netto/Projetos/Analisando como funciona a critografia do HTTPS.md",
+    "Entretenimento/Serial Experiments Lain.md",
+    "Pedro Netto/Fatec/Empreendedorismo.md",
+    "Leitura",
+    "Overcommit.md",
+    "Sem título 1.md",
+    "Tecnologia/Ferramentas e Softwares/Vimium.md",
+    "Leituras.md",
+    "Pedro Netto/Artigos/Composições musicais e sua frequência espiritual.md",
+    "Cursos/Trilha da Alura - DevOps.md",
+    "XDG Base Directory Specification.md",
+    "Cursos",
+    "Tecnologia/Sistemas Operacionais/Linux/FHS - Filesystem Hierarchy Standard.md",
+    "Tecnologia/Sistemas Operacionais/Linux/Utilitários/tar.md",
+    "Tecnologia/Sistemas Operacionais/Linux/Comandos/ls - Listar.md",
+    "IPsec.md",
+    "TSG.canvas",
+    "Planta Projeto de Redes de computadores.canvas",
+    "Itenização.canvas",
+    "README.md.tmp.974602.551a4cd9c5d7",
     "scripts/gerenciar_imagens.py",
     "scripts/gerenciar_imagens.py.tmp.974602.a12fcdb224e3",
     "scripts",
     "Lista - Publicações.base",
-    "Religião/Hinduísmo",
-    "Religião/Grega",
     "Religião/Hierarquias.canvas",
+    "midias/2026-04-16 - Simbolo.canvas",
     "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Definição de preço.canvas",
     "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Elastic Load Balancing.canvas",
     "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Escalabilidade.canvas",

@@ -41,16 +41,25 @@ Para extrair é necessário o parâmetro:
 tar -xf backup.tar
 
 # Extrai um .tar.gz
-tar -xzf backup.tar.gz
+tar -xvf backup.tar.gz
 
 # Extrai um diretório específico com -C
-tar -xzf backup.tar.gz -C /home/documentos/
+tar -xvf backup.tar.gz -C /home/documentos/
 
 # Extrai somente um arquivo selecionado do tarball
-tar -xzf backup.tar.gz arquivo.txt
+tar -xvf backup.tar.gz arquivo.txt
 ```
 > Perceba que assim como no criar, o parâmetro `-z` retorna, é para justamente especificar o algorítimo da compressão.
 > Outro detalhe é o parâmetro `-C`, para especificar o **Caminho**, aparentemente ele é utilizado mais no final, para se caso eu queria 'somente um arquivo do tarball' e no final eu especificar aonde. 
+
+Há diversos algoritmos para [[Compressão]], dessa forma precisamos específicar qual será usada:
+
+`tar -xvf` - Extrai **detectando o compressor automaticamente**
+`tar -xzf` - Extrai **gzip** (`.tar.gz`, `.tgz`)
+`tar -xjf` - Extrai **bzip2** (`.tar.bz2`)
+`tar -xJf` - Extrai **xz** (`.tar.xz`)
+`tar -xaf` - Extrai detectando o compressor automaticamente, mostrando os arquivos.
+
 ### **Listar**
 Exibe o tarball conteúdo do arquivo compactado sem extraí-lo.
 - **`-t` Listar**
@@ -64,7 +73,7 @@ tar -tzf backup.tar.gz
 # Lista com detalhes (permissões, tamanho, data) usando -v
 tar -tvf backup.tar
 ```
->Reforçando que o parâmetro `-f` é para 'especificar arquivo'
+>Reforçando que o parâmetro `-f` é para m'especificar arquivo'
 >O parâmetro `-v` Verbose, retorna novamente, ele serve para bastantes detalhes.
 ---
 

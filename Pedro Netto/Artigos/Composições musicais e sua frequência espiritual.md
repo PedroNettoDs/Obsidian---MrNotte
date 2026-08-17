@@ -1,3 +1,8 @@
 Após os eventos do dia [[2026-04-15]], prossegui para entender o que me levou a aquela viagem extracorpórea que passei, busquei compreender se isso é um fenômeno universal, assim cai em minha pesquisa pelo [[NotebookLLM]], cavucando temas relacionados as palavras chaves que pontuei.
 Dessa forma, fui parar em uma pesquisa: "Canto e experiência religiosa do sagrado: análise fenomenológica das vivências sonoras compartilhadas por devotos de [[Krishna]]".
 Dessa forma, me perguntei, mas o que raios seria 'Krishna' e assim compreendi que se trata de uma divindade fortemente ligada a musica
+
+
+https://z-library.im/book/jJGQGLd95A/historia-oculta-de-la-m%C3%BAsica.html
+
+https://reader.z-library.im/read/d5979a82efbab20b98478e1a4f44866aaf1cd711dbce442283f0c07f9074543f/book/jJGQGLd95A/historia-oculta-de-la-m%C3%BAsica.html/historia-oculta-de-la-m%C3%BAsica.html?client_key=1fFLi67gBrNRP1j1iPy1&extension=epub&signature=6e0d49f933bcfd1827d7e57be361588aa2def7b55e3714b6a52b5aee31bf211e&download_location=https%3A%2F%2Fz-library.im%2Fdl%2FOK1QpMGkKA&file_access_token=eyJleHAiOjE3ODY5MzQyMDYsInZlciI6IjEuMCIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiJmaWxlX2FjY2VzcyIsImZpbGVfc2hhMjU2IjoiZDU5NzlhODJlZmJhYjIwYjk4NDc4ZTFhNGY0NDg2NmFhZjFjZDcxMWRiY2U0NDIyODNmMGMwN2Y5MDc0NTQzZiIsImFjY2Vzc19sZXZlbCI6ImZ1bGwiLCJpc19wdWJsaWMiOmZhbHNlLCJsaW5rX293bmVyIjo1MDAxMTk5NH0.5mxYa1hsJdNXdWjMhu57k9rE7nKPgWkaLwwHe65fNjg

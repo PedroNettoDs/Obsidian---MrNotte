@@ -2,10 +2,10 @@
 aliases:
   - HTTP
 ---
+### Sobre
 é o [[Protocolo de comunicação]] da internet que permite a comunicação entre navegadores (clientes) e servidores, sendo responsável por transferir dados, como páginas HTML, imagens e vídeos, através do modelo de requisição-resposta, formando a base da World Wide Web.
 
 **Como Funciona (Modelo Cliente-Servidor):**
-
 1. **Requisição (Cliente):** Seu navegador envia uma solicitação HTTP (ex: para acessar uma URL) para um servidor.
 	
 2. **Resposta (Servidor):** O servidor recebe a requisição e envia uma resposta HTTP contendo os recursos solicitados (como o código [[HTML]] da página)
@@ -15,3 +15,41 @@ aliases:
 https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Guides/Overview
 
 #Protocolos 
+
+---
+## Anatomia das Mensagens
+> O **HTTP** é um protocolo **textual** (até sua versão 1.1) de **requisição e resposta** que roda sobre o [[TCP]].
+
+Quando o cliente abre uma conexão com o sevidor que está hospedando o site, é enviado uma *Mensagem de requisição*, o servidor devolve uma *Mensagem de resposta*, ambas seguem a mesma estrutura, com **quatro partes**.
+#### Quatro partes
+1. **Linha inicial (Start-line)** 
+	Descreve se é requisição ou resposta *(status de sucesso ou falha)*
+	O **método HTTP**, precisa de um **verbo**: `GET`, `PUT` ou `POST`
+	- `GET` - Indica que um recurso deve ser obtido
+	- `POST` - Significa que os dados serão inseridos no servidor (Criando/Gravando recurso), exemplo, uma criação de usuário novo.
+	- `PUT` - Substitui um valor, exemplo, o usuário alterou de senha, o PUT pode rodar várias vezes 4e sempre será possível
+
+| Método    | Uso                             | Corpo | Idempotente |
+| --------- | ------------------------------- | ----- | ----------- |
+| `GET`     | Ler recurso                     | Não   | Sim         |
+| `POST`    | Enviar/Criar dados              | Sim   | Não         |
+| `PUT`     | Substituir recurso              | Sim   | Sim         |
+| `PATCH`   | Alterar parcialmente            | Sim   | Não         |
+| `DELETE`  | Imagine o que faz               | Raro  | Sim         |
+| `HEAD`    | Igual ao GET mas só dos headers | Não   | Sim         |
+| `OPTIONS` | Descobrir capacidades           | Não   | Sim         |
+2. **Conjunto de cabeçalhos (header)**
+3. **Linha em branco (Empty line)**
+	Indicando que toda 'meta-informação' já está cima *(marca o fim)*
+4. **Corpo (Body)**
+	Contém os dados associados a requisição *(conteúdo HTML, um documento solicitado, um preenchimento de formulário)*
+
+### Requisições
+
+
+`MÉTODO <espaço> ALVO <espaço> VERSÃO CRLF`
+```http
+GET / HTTP/1.1
+```
+
+O comando `GET` vai buscar, dentro do protocolo: `HTTP` na versão '`1.1`', 
