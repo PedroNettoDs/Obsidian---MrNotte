@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"3bf9f52eeb8cb693","x":-120,"y":-240,"width":584,"height":400,"type":"group","label":"Senai"},
-		{"id":"d5a2adbd656c11d8","type":"text","text":"# Fatec\nSala de Aula\n\nDois laboratorio com 30 computadores cada.\n\nUma sala de administração com 2 computadores 3 impressoras\n\nCentral de impressão/suporte","x":-380,"y":180,"width":250,"height":331},
-		{"id":"9fdf50f60c2ea5ee","x":-96,"y":-220,"width":250,"height":360,"type":"text","text":"# Administração\n\n20 Estações\n\nDiretoria 3 computadores\n\nSecretaria com 7 computadores\n\nFinanceiro, Contabilidade e RH tem 10 computadores\n\nUma impressora por departamento"},
+		{"id":"3bf9f52eeb8cb693","type":"group","x":-120,"y":-240,"width":584,"height":400,"label":"Senai"},
+		{"id":"9fdf50f60c2ea5ee","type":"text","text":"# Administração\n\n20 Estações\n\nDiretoria 3 computadores\n\nSecretaria com 7 computadores\n\nFinanceiro, Contabilidade e RH tem 10 computadores\n\nUma impressora por departamento","x":-96,"y":-220,"width":250,"height":360},
 		{"id":"2cbb469951e5c27b","type":"text","text":"# Pesquisa\n\n5 Salas com 20 Estações\n\nConfigurações avançadas\n","x":184,"y":-220,"width":250,"height":180},
-		{"id":"01047c117ff0f9af","x":-580,"y":-250,"width":250,"height":60,"type":"text","text":"Pensar em incluir espaços para mais pontos"},
-		{"id":"5d0aadcb4f375091","x":184,"y":-20,"width":250,"height":160,"type":"text","text":"# Setor TI\n5 estações de trabalho\nServidores\n\nEmail Eletrônico e serviços de rede"},
-		{"id":"17e9622f9ec20368","x":59,"y":180,"width":250,"height":331,"type":"text","text":"# Etec\n\n10 Estações e Biblioteca\n\n2 Estações para funcionarios\n\n8 Computadores para pesquisa da biblioteca\n\n1 Impressora."}
+		{"id":"5d0aadcb4f375091","type":"text","text":"# Setor TI\n5 estações de trabalho\nServidores\n\nEmail Eletrônico e serviços de rede","x":184,"y":-20,"width":250,"height":160},
+		{"id":"01047c117ff0f9af","type":"text","text":"Pensar em incluir espaços para mais pontos","x":-505,"y":-250,"width":250,"height":60},
+		{"id":"17e9622f9ec20368","type":"text","text":"# Etec\n\n10 Estações e Biblioteca\n\n2 Estações para funcionarios\n\n8 Computadores para pesquisa da biblioteca\n\n1 Impressora.","x":184,"y":180,"width":250,"height":331},
+		{"id":"d5a2adbd656c11d8","type":"text","text":"# Fatec\nSala de Aula\n\nDois laboratorio com 30 computadores cada.\n\nUma sala de administração com 2 computadores 3 impressoras\n\nCentral de impressão/suporte","x":-96,"y":180,"width":250,"height":331}
 	],
 	"edges":[]
 }
