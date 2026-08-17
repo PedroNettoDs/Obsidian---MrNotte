@@ -3,7 +3,7 @@ aliases:
   - criptográficas
   - criptográfica
 ---
-### Sobre
+ ### Sobre
 A criptografia é o **conceito** de uma forma de embaralhar uma mensagem para que durante o caminho até o destino, quem interceptar não possa compreender o conteúdo.
 
 
