@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebookTabs",
       "LiAlbum",
       "☪",
       "LiComponent",
-      "LiApple",
-      "LiSchool"
+      "LiApple"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -103,7 +103,6 @@
     "iconColor": "#c8ff00"
   },
   "Pedro Netto/Artigos": "LiNewspaper",
-  "Pedro Netto/Entretenimento": "LiTv",
   "Teorias": {
     "iconName": "LiTestTubeDiagonal",
     "iconColor": "#00ffb3"
@@ -116,5 +115,7 @@
     "iconColor": "#ff0000"
   },
   "Eletrônica": "LiComponent",
-  "Religião": "LiAlbum"
+  "Religião": "LiAlbum",
+  "Entretenimento": "LiTv",
+  "Leitura": "LiNotebookTabs"
 }
