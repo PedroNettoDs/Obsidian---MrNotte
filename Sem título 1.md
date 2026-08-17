@@ -1,4 +1,4 @@
-
+ˇ
 > ![Abstract](https://firstmonday.org/ojs/index.php/fm/article/download/2058/version/1119/1956/71906/a.gif)  
 > This paper takes a new look at the debate over commons and property in information and communications. It warns against recreating the old communist–capitalist ideological divide by framing the movement for informational commons as “info–communist.” The spectre of communism haunts the movement because of an unresolved ideological tension in its ethical and philosophical foundations. The case for free software and open information contains both deontological appeals to the virtues of sharing, and consequentialist arguments against the growing intrusiveness of the institutional and technological mechanisms used to enforce exclusivity in the digital economy. The paper argues that the deontological case is a dead end that leads to info–communism. The strongest case for open access and freedom in information and communications is grounded in a liberalism that takes maximizing individual freedom as its objective and relies on creative complementarities between property and commons regimes as means to that end.
 > 
