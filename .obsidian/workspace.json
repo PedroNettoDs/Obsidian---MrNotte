@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título 1.md",
+                "file": "Demiurgo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título 1"
+              "title": "Demiurgo"
             }
           },
           {
@@ -27,86 +27,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leitura/Fausto.md",
+                "file": "Mônada.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fausto"
+              "title": "Mônada"
             }
           },
           {
-            "id": "127187c6c80b2f82",
+            "id": "f93da2b3c2b34ded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadow Copy.md",
+                "file": "Religião/Cristã/Dominações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shadow Copy"
+              "title": "Dominações"
             }
           },
           {
-            "id": "72f1c1bc295e1b3c",
+            "id": "f1d414779f4ec18f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religião/Cristã/Arcanjos/Miguel.md",
+                "file": "Árvore da vida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miguel"
+              "title": "Árvore da vida"
             }
           },
           {
-            "id": "064f6b168073e8d3",
+            "id": "15e944150ff9ffee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mefistófeles.md",
+                "file": "Santíssima Trindade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mefistófeles"
-            }
-          },
-          {
-            "id": "f44959d6b601672e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pedro Netto/Artigos/Riqueza.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Riqueza"
-            }
-          },
-          {
-            "id": "e48ab802c3f319ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cristianismo prega o Comunismo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cristianismo prega o Comunismo"
+              "title": "Santíssima Trindade"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Árvore DA VIDA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +136,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pedro Netto/Fatec/Empreendedorismo.md",
+                "file": "Santíssima Trindade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pedro Netto/Fatec/Empreendedorismo.md",
+                "file": "Santíssima Trindade.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -305,7 +278,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18462325977974683,
+                  "scale": 0.9346552526349685,
                   "close": true
                 }
               },
@@ -326,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pedro Netto/Fatec/Empreendedorismo.md",
+                "file": "Santíssima Trindade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,8 +329,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -373,57 +345,57 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fef2bea1d1e64568",
+  "active": "15e944150ff9ffee",
   "lastOpenFiles": [
-    "midias/Pasted image 20260807143410.png",
-    "Syncthing.md",
-    "Drivers.md",
-    "midias/_lixeira/Pasted image 20260816194102.png",
-    "midias/_lixeira/Pasted image 20260816130434.png",
-    "midias/_lixeira/Pasted image 20260816123448.png",
-    "midias/_lixeira/Pasted image 20260816123412.png",
-    "midias/_lixeira/Pasted image 20260816123356.png",
-    "midias/_lixeira/Pasted image 20260816123244.png",
-    "midias/_lixeira/Pasted image 20260816123308.png",
-    "midias/_lixeira/Pasted image 20260816123326.png",
-    "midias/_lixeira/Pasted image 20260816123141.png",
-    "midias/_lixeira/Pasted image 20260816122239.png",
-    "midias/_lixeira",
-    "Religião/Cristã/Arcanjos/Miguel.md",
-    "Sem título.md",
-    "Shadow Copy.md",
-    "Quem sou eu?.md",
+    "midias/_lixeira/Pasted image 20260818015731.png",
+    "midias/_lixeira/Pasted image 20260807143410.png",
+    "midias/_lixeira/Pasted image 20260818014829.png",
+    "midias/_lixeira/Pasted image 20260817214024.png",
+    "midias/_lixeira/Pasted image 20260818005617.png",
+    "midias/_lixeira/Pasted image 20260817232332.png",
+    "Filosofia/Id, Ego e Superego.md",
+    "Santíssima Trindade.md",
+    "Árvore da vida.md",
+    "Religião/Cristã/Querubim.md",
+    "Mônada.md",
+    "Religião/Cristã/Dominações.md",
+    "Hierarquia Celestial.md",
+    "Religião/Cristã/Serafim.md",
+    "Religião/Cristã/Tronos.md",
+    "midias/Pasted image 20260818015731.png",
+    "Religião/Cristã/Lucifer.md",
+    "midias/Pasted image 20260818014829.png",
+    "Religião/Cristã/Arcanjos/Metatron.md",
+    "Tanakh.md",
+    "midias/Pasted image 20260818005617.png",
+    "Demiurgo.md",
+    "Sem título 1.md",
+    "Centelha divina.md",
     "Leitura/Fausto.md",
-    "Mefistófeles.md",
-    "Religião/Cristã/Arcanjos/Gabriel.md",
-    "Religião/Cristã/Arcanjos/Rafael.md",
+    "midias/Pasted image 20260817232332.png",
+    "Física/Buraco Negro.md",
+    "Religião/Cristã/Arcanjos/Miguel.md",
+    "Religião/Mefistófeles.md",
+    "Cristianismo prega o Comunismo.md",
+    "Pedro Netto/Artigos/Riqueza.md",
+    "Filosofia/Platão.md",
+    "midias/Pasted image 20260817214024.png",
+    "Filosofia",
+    "Pedro Netto/Fatec/Projeto de Redes de computadores.md",
+    "Pedro Netto/Fatec/Procolo de Computadores.md",
+    "TSG.canvas",
+    "Pedro Netto/Fatec/Segurança em redes de computadores.md",
+    "midias/_lixeira",
     "Religião/Cristã/Arcanjos",
     "Religião/Cristã",
-    "Pedro Netto/Artigos/Riqueza.md",
-    "Cristianismo prega o Comunismo.md",
-    "Tecnologia/Infraestrutura/Protocolos de Comunicação/HTTP (Hypertext Transfer Protocol).md",
-    "Pedro Netto/Projetos/Analisando como funciona a critografia do HTTPS.md",
-    "Entretenimento/Serial Experiments Lain.md",
-    "Pedro Netto/Fatec/Empreendedorismo.md",
     "Leitura",
-    "Overcommit.md",
-    "Sem título 1.md",
-    "Tecnologia/Ferramentas e Softwares/Vimium.md",
-    "Leituras.md",
-    "Pedro Netto/Artigos/Composições musicais e sua frequência espiritual.md",
-    "Cursos/Trilha da Alura - DevOps.md",
-    "XDG Base Directory Specification.md",
     "Cursos",
-    "Tecnologia/Sistemas Operacionais/Linux/FHS - Filesystem Hierarchy Standard.md",
-    "Tecnologia/Sistemas Operacionais/Linux/Utilitários/tar.md",
-    "TSG.canvas",
     "Planta Projeto de Redes de computadores.canvas",
     "Itenização.canvas",
     "README.md.tmp.974602.551a4cd9c5d7",
     "scripts/gerenciar_imagens.py",
     "scripts/gerenciar_imagens.py.tmp.974602.a12fcdb224e3",
     "scripts",
-    "Lista - Publicações.base",
     "Religião/Hierarquias.canvas",
     "midias/2026-04-16 - Simbolo.canvas",
     "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Definição de preço.canvas",

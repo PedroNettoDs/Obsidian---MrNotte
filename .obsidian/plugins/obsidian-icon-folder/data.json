@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpenText",
       "LiNotebookTabs",
       "LiAlbum",
       "☪",
-      "LiComponent",
-      "LiApple"
+      "LiComponent"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -117,5 +117,6 @@
   "Eletrônica": "LiComponent",
   "Religião": "LiAlbum",
   "Entretenimento": "LiTv",
-  "Leitura": "LiNotebookTabs"
+  "Leitura": "LiNotebookTabs",
+  "Filosofia": "LiBookOpenText"
 }

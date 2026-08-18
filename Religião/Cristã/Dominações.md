@@ -1,0 +1,1 @@
+Sendo os quartos da [[Hierarquia Celestial]], recebem as demandas e supervisonam a equipe se está aplicando as metas e objetivos de [[Deus]]  (**Os Governadores do Cosmos**) 

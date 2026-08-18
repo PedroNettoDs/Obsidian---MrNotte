@@ -1,0 +1,1 @@
+Lucifer se revoltou com Deus e acreditando que poderia fazer um trabalho melhor que Deus
