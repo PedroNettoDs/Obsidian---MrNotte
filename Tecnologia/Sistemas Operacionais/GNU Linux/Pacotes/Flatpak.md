@@ -1,0 +1,1 @@
+É uma '**loja de aplicativos**', voltado voltados para aplicações de [[Linux]]

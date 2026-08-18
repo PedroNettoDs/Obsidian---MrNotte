@@ -1,3 +1,0 @@
-O Proxychains4 (ou proxychains-ng) é uma ferramenta de linha de comando para sistemas Unix que força qualquer conexão TCP de um programa a passar por servidores proxy, como SOCKS4, SOCKS5 ou HTTP
-
-Instalação e Arquivo de ConfiguraçãoInstale o pacote usando o gerenciador do seu sistema, como o gerenciador do Kali Linux Tools ou sudo apt install proxychains4 no Debian/Ubuntu.O arquivo de configuração principal fica em /etc/proxychains4.conf.Edite o arquivo para definir o modo de encadeamento (strict_chain, dynamic_chain ou random_chain).Adicione os seus servidores proxy na seção [ProxyList] no final do arquivo informando o tipo, o IP e a porta.
