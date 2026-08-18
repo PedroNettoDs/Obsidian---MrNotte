@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabApple",
       "LiBookOpenText",
       "LiNotebookTabs",
       "LiAlbum",
-      "☪",
-      "LiComponent"
+      "☪"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,11 +46,6 @@
   "Glossário/Termos/Backup.md": "LiDatabaseBackup",
   "Tecnologia/Sistemas Operacionais": "LiComputer",
   "Tecnologia/Sistemas Operacionais/Arquiteturas": "LiComputer",
-  "Tecnologia/Sistemas Operacionais/Linux": "FabLinux",
-  "Tecnologia/Sistemas Operacionais/Linux/Linux.md": "FabLinux",
-  "Tecnologia/Sistemas Operacionais/Linux/Utilitários": "LiToolCase",
-  "Tecnologia/Sistemas Operacionais/Linux/Distribuições Linux/Debian.md": "FabDebian",
-  "Tecnologia/Sistemas Operacionais/Linux/Distribuições Linux/Ubuntu.md": "FabUbuntu",
   "Tecnologia/Inteligência Artificial": {
     "iconName": "LiBrain",
     "iconColor": "#fd96dc"
@@ -77,9 +72,7 @@
     "iconName": "LiComputer",
     "iconColor": "#00ffcc"
   },
-  "Tecnologia/Sistemas Operacionais/Linux/Distribuições Linux": "FiArchive",
   "Tecnologia/Gerenciador de Pacotes.md": "LiPackageOpen",
-  "Tecnologia/Sistemas Operacionais/Linux/Comandos": "LiCodeXml",
   "Tecnologia/Extensão de arquivos": "LiFiles",
   "Pedro Netto": "LiCircleUser",
   "Pedro Netto/Diario": "LiNotebook",
@@ -118,5 +111,14 @@
   "Religião": "LiAlbum",
   "Entretenimento": "LiTv",
   "Leitura": "LiNotebookTabs",
-  "Filosofia": "LiBookOpenText"
+  "Filosofia": "LiBookOpenText",
+  "Tecnologia/Sistemas Operacionais/GNU Linux": "FabLinux",
+  "Tecnologia/Sistemas Operacionais/GNU Linux/Comandos": "LiCodeXml",
+  "Tecnologia/Sistemas Operacionais/GNU Linux/Distribuições Linux": "FiArchive",
+  "Tecnologia/Sistemas Operacionais/GNU Linux/Linux.md": "FabLinux",
+  "Tecnologia/Sistemas Operacionais/GNU Linux/Utilitários": "LiToolCase",
+  "Tecnologia/Sistemas Operacionais/GNU Linux/Distribuições Linux/Debian.md": "FabDebian",
+  "Tecnologia/Sistemas Operacionais/GNU Linux/Distribuições Linux/Ubuntu.md": "FabUbuntu",
+  "Tecnologia/Sistemas Operacionais/MacOs": "FabApple",
+  "Cursos": "LiNotebookTabs"
 }

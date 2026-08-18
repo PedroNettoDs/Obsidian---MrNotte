@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demiurgo.md",
+                "file": "Religião/Demiurgo.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mônada.md",
+                "file": "Religião/Cristã/Mônada.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,28 +53,27 @@
             "id": "f1d414779f4ec18f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Árvore da vida.md",
-                "mode": "source",
-                "source": false
+                "file": "Lista - Publicações.base",
+                "viewName": "Tabela"
               },
-              "icon": "lucide-file",
-              "title": "Árvore da vida"
+              "icon": "lucide-table",
+              "title": "Lista - Publicações"
             }
           },
           {
-            "id": "15e944150ff9ffee",
+            "id": "05aaa2bc8d493580",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Santíssima Trindade.md",
+                "file": "Hino Brasileiro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Santíssima Trindade"
+              "title": "Hino Brasileiro"
             }
           }
         ],
@@ -98,7 +97,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -112,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Árvore DA VIDA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,12 +135,12 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 271.37109375,
+    "collapsed": true
   },
   "right": {
     "id": "278a8c47ae870557",
@@ -220,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Santíssima Trindade.md",
+                "file": "Hino Brasileiro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -255,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Santíssima Trindade.md",
+                "file": "Hino Brasileiro.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -278,7 +277,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9346552526349685,
+                  "scale": 0.6231035017566456,
                   "close": true
                 }
               },
@@ -299,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Santíssima Trindade.md",
+                "file": "Hino Brasileiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,57 +344,57 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "15e944150ff9ffee",
+  "active": "05aaa2bc8d493580",
   "lastOpenFiles": [
+    "midias/_lixeira/Pasted image 20260818150558.png",
+    "midias/_lixeira/Pasted image 20260818135918.png",
+    "midias/_lixeira",
+    "midias/Pasted image 20260818150558.png",
+    "midias/hinonacional.mp3",
+    "Dar a cara a tapa.md",
+    "Hino Brasileiro.md",
+    "midias/Pasted image 20260818135918.png",
+    "Pedro Netto/Projetos/Roteiro video/Minha experiência com Linux.md",
+    "Lista - Publicações.base",
+    "Pedro Netto/Projetos/Implantando KeepassXC + Syncthing.md",
+    "Pedro Netto/Projetos/Aplicando deploy com GitHub Actions.md",
+    "Pedro Netto/Projetos/Guia de Distribuição de IP público Dinâmico.md",
+    "Pedro Netto/Projetos/Como criei meu E-mail personalizado.md",
+    "Pedro Netto/Projetos/Conectando o GoogleDrive com Rclone.md",
+    "Religião/Fontes.md",
+    "Religião/Deus.md",
+    "Religião/Elyon.md",
+    "Quem sou eu?.md",
+    "Pedro Netto/Fatec/TG.md",
+    "Pedro Netto/Fatec/Tecnologias de Interligação de Redes Remotas.md",
+    "Pedro Netto/Fatec/Tecnologia e Ambiente.md",
+    "Pedro Netto/Fatec/Segurança em redes de computadores.md",
+    "Pedro Netto/Fatec/Procolo de Computadores.md",
+    "Pedro Netto/Fatec/Planejamento Estratégico.md",
+    "Pedro Netto/Fatec/Informações.md",
+    "Pedro Netto/Fatec/Projeto de Redes de computadores/Projeto de Redes de computadores.md",
+    "Pedro Netto/Artigos/Uma visão geral - 2026.md",
+    "Pedro Netto/Fatec/Fundamentos de Gestão de Projetos.md",
+    "Pedro Netto/Fatec/Inglês 4.md",
+    "Pedro Netto/Fatec/Projeto de Redes de computadores/Planta Projeto de Redes de computadores.canvas",
+    "Pedro Netto/Fatec/Projeto de Redes de computadores",
+    "Pedro Netto/Artigos/Sistemas Numéricos e Computador.md",
+    "Tyling Window Manager.md",
+    "Tecnologia/Sistemas Operacionais/MacOs",
+    "Tecnologia/Criptografia",
     "midias/_lixeira/Pasted image 20260818015731.png",
     "midias/_lixeira/Pasted image 20260807143410.png",
     "midias/_lixeira/Pasted image 20260818014829.png",
     "midias/_lixeira/Pasted image 20260817214024.png",
     "midias/_lixeira/Pasted image 20260818005617.png",
     "midias/_lixeira/Pasted image 20260817232332.png",
-    "Filosofia/Id, Ego e Superego.md",
-    "Santíssima Trindade.md",
-    "Árvore da vida.md",
-    "Religião/Cristã/Querubim.md",
-    "Mônada.md",
-    "Religião/Cristã/Dominações.md",
-    "Hierarquia Celestial.md",
-    "Religião/Cristã/Serafim.md",
-    "Religião/Cristã/Tronos.md",
     "midias/Pasted image 20260818015731.png",
-    "Religião/Cristã/Lucifer.md",
-    "midias/Pasted image 20260818014829.png",
-    "Religião/Cristã/Arcanjos/Metatron.md",
-    "Tanakh.md",
-    "midias/Pasted image 20260818005617.png",
-    "Demiurgo.md",
-    "Sem título 1.md",
-    "Centelha divina.md",
-    "Leitura/Fausto.md",
-    "midias/Pasted image 20260817232332.png",
-    "Física/Buraco Negro.md",
-    "Religião/Cristã/Arcanjos/Miguel.md",
-    "Religião/Mefistófeles.md",
-    "Cristianismo prega o Comunismo.md",
-    "Pedro Netto/Artigos/Riqueza.md",
-    "Filosofia/Platão.md",
-    "midias/Pasted image 20260817214024.png",
     "Filosofia",
-    "Pedro Netto/Fatec/Projeto de Redes de computadores.md",
-    "Pedro Netto/Fatec/Procolo de Computadores.md",
     "TSG.canvas",
-    "Pedro Netto/Fatec/Segurança em redes de computadores.md",
-    "midias/_lixeira",
     "Religião/Cristã/Arcanjos",
     "Religião/Cristã",
     "Leitura",
-    "Cursos",
-    "Planta Projeto de Redes de computadores.canvas",
     "Itenização.canvas",
-    "README.md.tmp.974602.551a4cd9c5d7",
-    "scripts/gerenciar_imagens.py",
-    "scripts/gerenciar_imagens.py.tmp.974602.a12fcdb224e3",
-    "scripts",
     "Religião/Hierarquias.canvas",
     "midias/2026-04-16 - Simbolo.canvas",
     "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Definição de preço.canvas",
