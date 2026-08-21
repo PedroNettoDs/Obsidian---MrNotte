@@ -25,7 +25,7 @@ crontab -e
 echo url="https://www.duckdns.org/update?domains={#Seu subdominio duck}&token={#Seu token}&ip=" | curl -k -o ~/duckdns/duck.log -K -
 ```
 
-Só que eu não gostaria de ter um '[[Sub Dominio]]' e sim um '[[Dominio]]', exemplo:
+Só que eu não gostaria de ter um '[[Sub Dominio]]' e sim um '[[Domínios]]', exemplo:
 Para eu acessar, seria 'nettotech.duckdns.org'. sendo que eu gostaria de ser 'nettotech.com.br', então prossegui com meu próximo candidato:
 
 ---

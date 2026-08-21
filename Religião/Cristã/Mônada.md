@@ -1,4 +1,4 @@
-É o aspecto mais elevado da alma, representando nossa essência divina que existe além do tempo e do espaço.
+É o aspecto mais elevado da [[Alma]], representando nossa essência divina que existe além do tempo e do espaço.
 É a mais pura forma de consciência, não distorcida por nenhum fator externo.
 A Mônada é frequentemente representada como um círculo com um ponto no centro, simbolizando a unidade e a perfeição do Divino
 > Sandra Schmittel ([link](https://www.linkedin.com/pulse/voc%C3%AA-sabe-o-que-%C3%A9-m%C3%B4nada-alma-e-factais-sandra-schmittel/))

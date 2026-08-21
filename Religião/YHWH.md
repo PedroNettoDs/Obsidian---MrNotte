@@ -3,7 +3,12 @@ aliases:
   - El
   - Yahweh
 ---
-YHWH é o [[Deus]]!, sendo o progenitor, acompanhado por sua esposa [[Asherah]].
+YHWH é o [[Deus]]! dos Deuses;
+Vive no Monte Lel e *gosta de fartar bebidas e banquetes* (Seia)
+
+El, atravessou o mar até encontrar [[Asherah]]
+
+sendo o progenitor, acompanhado por sua esposa [[Asherah]].
 Seu nome Yahweh, vem do 'panteão' [[Cananeu]], sendo adorado pelo nome: **El**, que dá origem ao nome: **IsraEL**.
 
 >Salmos 114:1-2Quando Israel saiu do Egito, e o povo de Jacó, do meio de um povo de língua estrangeira, Judá tornou‑se o santuário de Deus; **Israel, o seu domínio.**

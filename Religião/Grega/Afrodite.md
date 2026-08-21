@@ -1,0 +1,1 @@
+Equivalente a [[Astarte]]  e [[Pombagira]]

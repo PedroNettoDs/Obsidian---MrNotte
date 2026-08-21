@@ -1,6 +1,13 @@
- Deusa da fertilidade.
+---
+aliases:
+  - Athirat
+  - Senhora do Mar
+---
+[[YHWH]]  é esposo de Asherah.
+Deusa da fertilidade.
 ### Mãe/Geradora da vida
-Infundiu seu [[DNA]] com [[Asherah]], fêmea possui sua espécie de **[saco amniótico](https://pt.wikipedia.org/wiki/Bolsa_amni%C3%B3tica)**, que hoje é denominado como ''**[Sopa primordial](https://pt.wikipedia.org/wiki/Sopa_primordial)**",
+Gerando nossa vida com seu  [saco amniótico](https://pt.wikipedia.org/wiki/Bolsa_amni%C3%B3tica), que hoje é denominado como ''[Sopa primordial](https://pt.wikipedia.org/wiki/Sopa_primordial)";
+fornecendo os nutrientes necessários para que  o gene de YHWH pudesse crescer tendo um **ancestral comum**: "***LUCA***";
 
 ### Visita de Asherah
 Ao analisar a obra e compreendendo a representação do desenho

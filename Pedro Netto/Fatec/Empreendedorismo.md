@@ -1,3 +1,4 @@
+# 18/08/2026
 O que é Empreendedorismo no Brasil?
 
 Crescimento nos anos 90
@@ -7,27 +8,30 @@ Crescimento nos anos 90
 	- Essas pessoas que foram expulsos, não conseguiriam voltar para o mercado de trabalho em outra empresa, logo, decidiram empreender com seus conhecimentos.
 		- Fazendo com que o país atingisse o maior número de empresas abertas, porém, também fechou muito... (por falta de condições e alocação)\
 
-### O Empreendedorismo é para qualquer um?
+## O Empreendedorismo é para qualquer um?
 Qual é o perfil?
 - Pessoa que faz acontecer
 - Antecipa aos fatos (sabendo o que está acontecendo na área, participando em eventos e cursos)
 - Visão de futuro da organização
 
-### Para se dar bem
+## Para se dar bem
 - Necessidade de realização
 - Disposição para assumir riscos
 - Autoconfiança
-##### Necessidade de realização:
+## Necessidade de realização:
 É algo íntimo da pessoa.
 Não é igual para todos
 	Sempre, ocorre mais [[Riqueza]]
-##### Disposição de correr riscos
+## Disposição de correr riscos
 Tudo que fazermos, há um risco, logo, não podemos aceitar não nós arriscarmos.
 '*Trocar de empresa*' e '*Entrevista*', fracassar e perder tempo\dinheiro.
-##### Autoconfiança
+## Autoconfiança
 Será a pessoa, que se impõe a frente do risco e confia que conseguirá enfrentar.
 
 Aulo-especial
 
 Filme "O Aviador"
 Fala sobre 
+
+---
+
