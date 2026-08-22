@@ -18,3 +18,5 @@ Ele infundiu seu [[DNA]] com [[Asherah]], após a formação de nosso universo, 
 
 
 https://opreterismo.com/estudos-biblicos/deus-yahweh-e-el-elyon-biblia-antigo-e-novo-testamento
+
+https://en.wikipedia.org/wiki/El_(deity)

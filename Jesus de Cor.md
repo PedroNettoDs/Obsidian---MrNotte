@@ -1,0 +1,1 @@
+Quadros e obras de Jesus Cristo, retratam ele com a cor de pele clara e seus cabelos lisos, porém é mais que claro que para a época

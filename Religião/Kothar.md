@@ -1,3 +1,7 @@
+---
+aliases:
+  - Kothar-wa-Khasis
+---
 Equivalente a [[Hefesto]] e [[Vulcano]]
 Deus **cananeu/ugarítico** 
 

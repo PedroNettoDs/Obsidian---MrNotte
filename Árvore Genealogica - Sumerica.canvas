@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f3511a46d2c81202","type":"text","text":"# [[Namu]]","x":-110,"y":-357,"width":130,"height":60,"color":"6"},
+		{"id":"8a9ca4f1908fbb9c","type":"text","text":"# [[Antu]]\n## Terra","x":-380,"y":-38,"width":120,"height":114,"color":"6"},
+		{"id":"382f884bfc4e725d","type":"text","text":"# [[Anu]]\n## Céu","x":-640,"y":-38,"width":120,"height":106,"color":"5"}
+	],
+	"edges":[
+		{"id":"b319017c5a342975","fromNode":"f3511a46d2c81202","fromSide":"bottom","toNode":"382f884bfc4e725d","toSide":"top"},
+		{"id":"2e6765fba4c99912","fromNode":"f3511a46d2c81202","fromSide":"bottom","toNode":"8a9ca4f1908fbb9c","toSide":"top"}
+	]
+}

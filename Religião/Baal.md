@@ -1,2 +1,0 @@
-Textos: Ciclo de Baal
-
