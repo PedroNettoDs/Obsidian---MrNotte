@@ -1,19 +1,61 @@
 {
   "main": {
-    "id": "81a0b62140fb41b1",
+    "id": "d618b1e5990f800e",
     "type": "split",
     "children": [
       {
-        "id": "8dea5b231f7b0dd7",
+        "id": "5fd13bcab467338d",
         "type": "tabs",
         "children": [
           {
-            "id": "fc3f927f80522ce0",
+            "id": "f2ce486061c53483",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DefCon.md",
+                "file": "China.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "China"
+            }
+          },
+          {
+            "id": "7719431a23a2e78d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://meiobit.com/467895/bittorrent-25-anos-historia/",
+                "title": "BitTorrent 25 anos: o protocolo que mudou a internet – Meio Bit",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "BitTorrent 25 anos: o protocolo que mudou a internet – Meio Bit"
+            }
+          },
+          {
+            "id": "f3e092c32d3604e4",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://meiobit.com/arquivo/14667/p2p-e-pirataria-mas-tem-um-lado-bonitinho-tambem/",
+                "title": "P2P é pirataria mas tem um lado bonitinho também – Meio Bit",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "P2P é pirataria mas tem um lado bonitinho também – Meio Bit"
+            }
+          },
+          {
+            "id": "97955dc8d23537b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Hacker/DefCon.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,7 +64,7 @@
             }
           },
           {
-            "id": "0398738efbe2952d",
+            "id": "544e1d7342142321",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,28 +77,27 @@
               "title": "Torrent"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bb94046eb953275e",
+    "id": "9186ebe93f3cfcaa",
     "type": "split",
     "children": [
       {
-        "id": "35ad66f29f734b3c",
+        "id": "0b18ab1167309b5f",
         "type": "tabs",
         "children": [
           {
-            "id": "fef2bea1d1e64568",
+            "id": "c3b46623a5e79390",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -65,7 +106,7 @@
             }
           },
           {
-            "id": "afeb2e8cb391a7e9",
+            "id": "2521ce46cc9d00e9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,12 +123,12 @@
             }
           },
           {
-            "id": "c23e9c68630c285a",
+            "id": "524b42b97e6f16c6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-bookmark",
@@ -98,66 +139,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "278a8c47ae870557",
+    "id": "015a81cd6add6e86",
     "type": "split",
     "children": [
       {
-        "id": "1f2cd4260b484646",
+        "id": "1b16afd597e47e1d",
         "type": "tabs",
-        "dimension": 20.85505735140772,
         "children": [
           {
-            "id": "58735fbc753db095",
+            "id": "2389948510ed9f76",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pedro Netto/Artigos/Impostômetro.md",
-                "collapseAll": true,
+                "file": "China.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Links inversos"
             }
           },
           {
-            "id": "36f16316263402ed",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Todas as propriedades"
-            }
-          },
-          {
-            "id": "d76cac502f6616ec",
+            "id": "794dcbd81e727bca",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pedro Netto/Projetos/E-mail personalizado.md",
+                "file": "China.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para E-mail personalizado"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "aded0bf3a1228ff2",
+            "id": "4a1ea579ac989b8a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,12 +198,26 @@
             }
           },
           {
-            "id": "0031357113b539c2",
+            "id": "f48785608ddc1dda",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "e2084572201cc8a0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnologia/Ferramentas e Softwares/Torrent.md",
+                "file": "China.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,109 +225,12 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
-          },
-          {
-            "id": "f8187f7408651082",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Pedro Netto/Fatec/Empreendedorismo.md"
-              },
-              "icon": "lucide-info",
-              "title": "Propriedades dos arquivos"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "0d7de0871069478a",
-        "type": "tabs",
-        "dimension": 49.739311783107404,
-        "children": [
-          {
-            "id": "d450bbc9c8cfb6c5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Tecnologia/Ferramentas e Softwares/Torrent.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -1.5,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.27693488966962027,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Grafo local"
-            }
-          }
-        ]
-      },
-      {
-        "id": "01b9f4b1aa54f869",
-        "type": "tabs",
-        "dimension": 29.405630865484877,
-        "children": [
-          {
-            "id": "769152ea37279536",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Tecnologia/Ferramentas e Softwares/Torrent.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Links inversos"
-            }
-          },
-          {
-            "id": "1d33996e6e944367",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Lotan.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 335.83203125,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -298,68 +241,55 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false,
       "random-note:Abrir nota aleatória": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "bases:Criar nova base": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0398738efbe2952d",
+  "active": "f2ce486061c53483",
   "lastOpenFiles": [
-    "DefCon.md",
-    "Leitura/Implicações Legais de Sistemas Complexos de Realidade Virtual.md",
-    "Religião/Egípcia/Árvore Genealogica - Egipcia.canvas",
-    "Alexa Crawls.md",
-    "midias/_lixeira/Pasted image 20260823084715.png",
-    "midias/_lixeira/Arvore genealógica - Egipcia.png",
+    "Pedro Netto/Fatec/Planejamento Estratégico.md",
+    "China.md",
+    "Sem título.md",
+    "Tecnologia/Infraestrutura/Protocolos de Comunicação/Modelo OSI.md",
     "Tecnologia/Ferramentas e Softwares/Torrent.md",
-    "midias/_lixeira/Pasted image 20260824014342.png",
-    "midias/_lixeira/Pasted image 20260824013955.png",
-    "midias/_lixeira/Pasted image 20260824013510.png",
-    "midias/_lixeira/Pasted image 20260824004921.png",
-    "midias/_lixeira/Pasted image 20260824003106.png",
-    "midias/_lixeira/Pasted image 20260823224446.png",
-    "midias/_lixeira/Pasted image 20260823090749.png",
-    "midias/_lixeira/Pasted image 20260822210952.png",
-    "midias/_lixeira",
-    "Jeff Moss.md",
-    "chip Clipper.md",
-    "NSA.md",
+    "Tecnologia/Hacker/DefCon.md",
+    "midias/Pasted image 20260824110019.png",
+    "Tecnologia/Ferramentas e Softwares/UML.md",
+    "Pedro Netto/Fatec/Projeto de Redes de computadores/Aula 3.md",
+    "Pedro Netto/Fatec/Gestão de risco - PM.canvas",
+    "Leitura/Implicações Legais de Sistemas Complexos de Realidade Virtual.md",
     "Cultura Recombinante - O Crime na Rede Digital.md",
-    "BBS.md",
-    "Memória da Comunidade.md",
-    "Compartilhamento de Tempo.md",
-    "World Wide Web.md",
-    "Teorias/Promessa bíblica sobre 'nova terra'.md",
-    "Fórmula do universo.md",
-    "Divisão de terras feita por Deus.md",
-    "DKIM.md",
-    "Leituras.md",
-    "Objetivos.md",
-    "Ptah.md",
-    "Sem título 1.md",
-    "7.md",
-    "Historia/China/Mao Tsé-Tung.md",
-    "Historia/China/Jiang Qing.md",
-    "Historia/China",
-    "Historia",
-    "Religião/Egípcia/Egípcia.md",
-    "Religião/Egípcia/Khat.md",
-    "Itenização.canvas",
+    "Tecnologia/Hacker",
     "Árvore Genealogica - Sumerica.canvas",
-    "Religião/Coalização.canvas",
+    "chip Clipper.md",
+    "Yam.md",
+    "World Wide Web.md",
+    "Sete Príncipes do Inferno.md",
+    "Religião/Suméria/Namu.md",
+    "Religião/Suméria/Lotan.md",
+    "Religião/Suméria/Antu.md",
+    "Religião/Suméria/Danquina.md",
+    "Religião/Suméria/Anu.md",
     "Religião/Suméria",
-    "Religião/Mesopotâmica",
+    "Religião/Submundo.md",
+    "Religião/Nórdica/Ragnarok.md",
     "Religião/Nórdica",
+    "Religião/Mesopotâmica/Tiamat.md",
+    "Religião/Mesopotâmica/Nana.md",
+    "Religião/Mesopotâmica/Enqui.md",
+    "Religião/Mesopotâmica/Inana.md",
+    "Religião/Mesopotâmica/Mesopotâmia.md",
+    "Religião/Mesopotâmica",
     "Religião/Irlandesa",
-    "Religião/Cananeia",
+    "Religião/Egípcia/Árvore Genealogica - Egipcia.canvas",
+    "Religião/Egípcia",
     "Religião/Céltica",
+    "Religião/Coalização.canvas",
+    "Religião/Cananeia",
     "Religião/Budismo",
-    "Pedro Netto/Fatec/Projeto de Redes de computadores/Planta Projeto de Redes de computadores.canvas",
-    "TSG.canvas",
-    "Religião/Hierarquias.canvas",
-    "midias/2026-04-16 - Simbolo.canvas",
-    "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Definição de preço.canvas",
-    "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Elastic Load Balancing.canvas"
+    "Historia/China",
+    "Pedro Netto/Fatec/Projeto de Redes de computadores/Planta Projeto de Redes de computadores.canvas"
   ]
 }

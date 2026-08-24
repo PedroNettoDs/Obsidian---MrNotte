@@ -45,7 +45,7 @@ Por "realidade virtual", refiro-me a uma experiência mediada por computador, im
 #### C. Estamos passando do exoesqueleto para a eliminação da interface
 
 1. Do sujeito excêntrico com capacete/óculos pesados, traje de sensores e múltiplos cabos para o usuário que se desvencilha de suas correntes, de seu corpo físico, e caminha para dentro do novo universo.
-2. Vocês conhecem o soquete ZIF (*Zero Insertion Force*)? Conhecem GUI (*Interface Gráfica do Usuário*)? Eis uma nova sigla de três letras: **ZUI** (*Zero User Interface* — Interface Zero do Usuário). É nisso que estamos mirando. Queremos esquecer a tecnologia; não queremos vê-la, ouvi-la, cheirá-la ou encará-la; queremos acreditar que ela se dissolveu, sumiu, desapareceu; queremos tomá-la como algo absolutamente natural e invisível, até acreditarmos que o ambiente é real.
+2. Vocês conhecem o soquete ZIF (*Zero Insertion Force*)? Conhecem [[Interface gráfica|GUI]] (*Interface Gráfica do Usuário*)? Eis uma nova sigla de três letras: **ZUI** (*Zero User Interface* — Interface Zero do Usuário). É nisso que estamos mirando. Queremos esquecer a tecnologia; não queremos vê-la, ouvi-la, cheirá-la ou encará-la; queremos acreditar que ela se dissolveu, sumiu, desapareceu; queremos tomá-la como algo absolutamente natural e invisível, até acreditarmos que o ambiente é real.
 > Os computadores também irão se dissolver. Quando falamos de RV totalmente imersiva, ou chips alojados no cérebro, ou outras metáforas de integração completa entre mente e máquina — é exatamente a isso que estamos chegando: **ZUI** [zu-i], a interface zero; a máquina invisível.
 
 

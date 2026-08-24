@@ -60,8 +60,53 @@ Dessa forma, o consumidor, pode tomar sua decisão tanto em relação ao preço,
 
 Logo, com as vendas ocorrendo, chegam a conclusão de que, para se possuir mais lucro do suco, precisam melhorar o valor da cadeia de suprimento, com o valor arrecadado pelas duas vendas, agora o Senhor Barriga, prossegue procurando a mesma disputa por comerciantes de frutas frescas e realiza a mesma jogada pacificadora, investe nas fazendas e uma parte da produção, vai para o suco, ai percebem que precisam de recipientes para armazenar o suco para a viagem/beber, é feito novamente a jogada de procurar uma fábrica, investir, estabelecer tratos comerciais e desse forma, o que inicialmente era uma loja de suco, se torna uma cadeia empresas interligadas com a participação de uma 'empresa chefe' (exemplo SeoBarriga Corp), que com o lucro desses investimentos e participações, começam a comprar a loja de suco, ficando com o lucro da operação por inteiro, depois prosseguem com a compra da fazenda de frutas, podendo vender para outros e assim sucessivamente
 
-e é assim, que ocorre a monopolização, a unificação de um seguimento completo por uma empresa chefe.
-[![Monopólios por todos os lados : r/Anticonsumption](https://preview.redd.it/monopolies-everywhere-v0-f33ajk475yre1.jpeg?auto=webp&s=addd09e916178b35a5a387aeb3e411fe8f8b5412)](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FAnticonsumption%2Fcomments%2F1jnuee4%2Fmonopolies_everywhere%2F%3Ftl%3Dpt-br&ved=0CBYQjRxqFwoTCKD9gJrzp5YDFQAAAAAdAAAAABA4&opi=89978449)
+e é assim, que ocorre a monopolização, a unificação de um seguimento completo por uma empresa chefe
+
+
+
 
 https://www.administradores.com.br/artigos/estruturas-de-mercado
+
+---
+
+Analise de ambiente de négocio.
+	uma vaga de emprego, com varios candidatos faz com que você tome mais cuidado
+	caso a vaga só tenha você, você pode ficar relaxado e fazer cagada.
+
+## Concorrência perfeita
+Não há poder para unificar a compra de alguém, há muitas empresas e muitos consumidores, não há como bloquear que o consumidor compre unicamente de ti.
+Logo, se voce vende laranja a 12 reais, não há motivações para ser esse valor, pois outros estabelecimentos podem vender por 5 reais
+Então caso um vendedor saia, ainda vão permanecer comprando laranjas.
+Logo, o Mercado permanece o combate justo, se alguém aumentar demais não compram, se diminuir demais, não tem lucro.
+- Exemplo: Comotidies agrícolas
+
+## Concorrência imperfeita
+Existencias de muitas empresas e muitos compradores (mesma estrutura da perfeita)
+Mas as empresas, podem agir de forma diferente e independente, buscando sua diferenciação.
+- Cada um fixar o valor que ele acha que vale.
+- Fazer o cliente entender o valor (Apple, Roupa de Griffe)
+- Estratégia de négocio
+	- Exemplo de camiseta que era antes por atacado, quando inundou de empresas, ela se destaca ao se fazer uma reposição de mercado, exemplo, '100% algodão', 'loca de compra, só em zona nobre', 'publicidade com atores bonitos usando', agrega valor ao produto
+	- Havanaianas 'era 100% borracha' e o valor antes era 19,99, hoje está 80 reais por conta das estampas.
+		e ainda continua sendo 100% borracha e não melhorou a tecnologia, ela ainda continua 
+	- Marca da bebida 51 -> antes era em bares, aonde pagavam uma dose, hoje, são voltados a caipirinhas e tem suas derivações.
+
+
+Oferta é = Vender, não é Desconto, se tenho o produto, tenho que vender
+Demanda é consumidor.
+### Monopolio.
+- Exemplo de remédio, remédio novo, tem um custo de pesquisa e criação, para isso, há as patentes, e empresas que possuem seu medicamento novo com sua patente, podem ditar o preços. (para cobrir o custo de pesquisa e criação)
+- Salario minimo 70, os telefones possuiam o valor 300, na época as ligações faziam muitos barulhos e atrapalhavam, a motorola desenvolveu um sistema de 'vibração' e patenteou, fazendo do celular dele ser 750, por serem os únicos com isso.
+- Governo lula, Ministro da saúde, começou a financiar empresas para criar remédios com as patentes expiradas, tirando o monopolio de compras de remedios, diminuindo o valor do antes era um monopolio.
+	- na época que estava tendo um surto de HIV, por serem caros os tratamentos, institucionalmente é 'remédio de alto custo', o governo financiou a fabricação de genéricos mesmo com patente e DISTRIBUIRAM DE GRAÇA
+		- As empresas com patente, denunciaram para o OMC.
+- coisas que não 
+
+
+
+
+### Oligopolio
+[![Monopólios por todos os lados : r/Anticonsumption](https://preview.redd.it/monopolies-everywhere-v0-f33ajk475yre1.jpeg?auto=webp&s=addd09e916178b35a5a387aeb3e411fe8f8b5412)](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FAnticonsumption%2Fcomments%2F1jnuee4%2Fmonopolies_everywhere%2F%3Ftl%3Dpt-br&ved=0CBYQjRxqFwoTCKD9gJrzp5YDFQAAAAAdAAAAABA4&opi=89978449)
+Organização CADE, controla para evitar monopolio.
+
 
