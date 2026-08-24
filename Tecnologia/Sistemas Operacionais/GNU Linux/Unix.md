@@ -4,7 +4,7 @@ aliases:
 ---
 Unix é um [[Sistema Operacional]] portável, multitarefa e multiusuário, desenvolvido nos anos 70 nos laboratórios Bell da AT&T por Ken Thompson e Dennis Ritchie.
 
-Conhecido pela sua estabilidade, modularidade e uso de arquivos de dispositivo, influenciou profundamente o desenvolvimento do [[Linux]], [[macOS]] e sistemas BSD, sendo considerado o "pai dos sistemas operacionais" modernos. 
+Conhecido pela sua estabilidade, modularidade e uso de arquivos de dispositivo, influenciou profundamente o desenvolvimento do [[Linux]], [[MacOs]] e sistemas BSD, sendo considerado o "pai dos sistemas operacionais" modernos. 
 
 Como o sistema operacional Unix foi feito para computadores da série: **PDP**
 - **PDP-7**:

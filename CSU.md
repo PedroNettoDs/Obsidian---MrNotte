@@ -1,0 +1,1 @@
+Fornece terminação para o sinal digital

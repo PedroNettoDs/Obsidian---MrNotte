@@ -25,5 +25,3 @@ Sendo necessário *primeiro, utilizar o `tar`*, para reunir os diversos arquivos
 `arquivo.tar.gz`, simbolizando que é um arquivo, arquivado e comprimido.
 
 Embora a filosofia [[Unix]] pregue a separação, existem ferramentas que fazem a 'abstração' desse processo.
-
-[^1]: ![[Algoritmo]]
