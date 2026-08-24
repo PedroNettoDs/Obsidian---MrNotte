@@ -4,207 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ab3d2ca5cd276dca",
-        "type": "split",
+        "id": "8dea5b231f7b0dd7",
+        "type": "tabs",
         "children": [
           {
-            "id": "3ddf532e0cd7a170",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "37e70b54bebf350a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Religião/Demiurgo.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Demiurgo"
-                }
+            "id": "fc3f927f80522ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DefCon.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "1e4566280b898769",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Religião/Cristã/Virtudes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Virtudes"
-                }
-              },
-              {
-                "id": "bb104b1b46617315",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Religião/Cristã/Arcanjos/Rafael.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Rafael"
-                }
-              },
-              {
-                "id": "2e351eab3c3ba16c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Religião/Arcanjos.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Arcanjos"
-                }
-              },
-              {
-                "id": "3bb1fdf4ea9fd763",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Religião/Cristã/Leviatã.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Leviatã"
-                }
-              },
-              {
-                "id": "cbd1341facdb97f6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Enqui.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Enqui"
-                }
-              },
-              {
-                "id": "ff619f67353fc542",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Namu.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Namu"
-                }
-              },
-              {
-                "id": "ea8edce3473119f2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Religião/Mesopotâmica/Tiamat.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiamat"
-                }
-              },
-              {
-                "id": "bdd53d57cf56a91a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Mesopotâmia.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Mesopotâmia"
-                }
-              }
-            ],
-            "currentTab": 8
+              "icon": "lucide-file",
+              "title": "DefCon"
+            }
           },
           {
-            "id": "36017519e9d58f28",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4b86c094ec48c7ca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Religião/Cananeia/Baal.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Baal"
-                }
+            "id": "0398738efbe2952d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Ferramentas e Softwares/Torrent.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "d40c52d52130427d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Transfiguração.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Transfiguração"
-                }
-              },
-              {
-                "id": "f5ff430acae7eef0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Jesus de Cor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Jesus de Cor"
-                }
-              },
-              {
-                "id": "c3275b705809da5e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Religião/Cristã/Leviatã.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Leviatã"
-                }
-              }
-            ],
-            "currentTab": 3
+              "icon": "lucide-file",
+              "title": "Torrent"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,7 +107,7 @@
       {
         "id": "1f2cd4260b484646",
         "type": "tabs",
-        "dimension": 20.855057351407716,
+        "dimension": 20.85505735140772,
         "children": [
           {
             "id": "58735fbc753db095",
@@ -345,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religião/Cristã/Leviatã.md",
+                "file": "Tecnologia/Ferramentas e Softwares/Torrent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -380,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Religião/Cristã/Leviatã.md",
+                "file": "Tecnologia/Ferramentas e Softwares/Torrent.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -395,7 +227,7 @@
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -1.5,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -403,7 +235,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9346552526349685,
+                  "scale": 0.27693488966962027,
                   "close": true
                 }
               },
@@ -424,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religião/Cristã/Leviatã.md",
+                "file": "Tecnologia/Ferramentas e Softwares/Torrent.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -455,7 +287,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.02734375
+    "width": 335.83203125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -471,63 +304,62 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c3275b705809da5e",
+  "active": "0398738efbe2952d",
   "lastOpenFiles": [
-    "Religião/Cristã/Hierarquia Celestial.md",
-    "Religião/Cristã/Serafim.md",
-    "Sem título.md",
-    "Jesus de Cor.md",
-    "Transfiguração.md",
-    "Religião/Cananeia/Baal.md",
-    "Namu.md",
-    "Árvore Genealogica - Sumerica.canvas",
-    "Religião/Suméria/Antu.md",
-    "Mesopotâmia.md",
-    "Antu.md",
-    "midias/Pasted image 20260822132343.png",
-    "midias/Pasted image 20260822132311.png",
-    "Nana.md",
-    "Inana.md",
+    "DefCon.md",
+    "Leitura/Implicações Legais de Sistemas Complexos de Realidade Virtual.md",
+    "Religião/Egípcia/Árvore Genealogica - Egipcia.canvas",
+    "Alexa Crawls.md",
+    "midias/_lixeira/Pasted image 20260823084715.png",
+    "midias/_lixeira/Arvore genealógica - Egipcia.png",
+    "Tecnologia/Ferramentas e Softwares/Torrent.md",
+    "midias/_lixeira/Pasted image 20260824014342.png",
+    "midias/_lixeira/Pasted image 20260824013955.png",
+    "midias/_lixeira/Pasted image 20260824013510.png",
+    "midias/_lixeira/Pasted image 20260824004921.png",
+    "midias/_lixeira/Pasted image 20260824003106.png",
+    "midias/_lixeira/Pasted image 20260823224446.png",
+    "midias/_lixeira/Pasted image 20260823090749.png",
+    "midias/_lixeira/Pasted image 20260822210952.png",
+    "midias/_lixeira",
+    "Jeff Moss.md",
+    "chip Clipper.md",
+    "NSA.md",
+    "Cultura Recombinante - O Crime na Rede Digital.md",
+    "BBS.md",
+    "Memória da Comunidade.md",
+    "Compartilhamento de Tempo.md",
+    "World Wide Web.md",
+    "Teorias/Promessa bíblica sobre 'nova terra'.md",
+    "Fórmula do universo.md",
+    "Divisão de terras feita por Deus.md",
+    "DKIM.md",
+    "Leituras.md",
+    "Objetivos.md",
+    "Ptah.md",
+    "Sem título 1.md",
     "7.md",
-    "Religião/Mesopotâmica/Tiamat.md",
-    "Enqui.md",
-    "Árvore Genealogica - Sumerica.canva.md",
+    "Historia/China/Mao Tsé-Tung.md",
+    "Historia/China/Jiang Qing.md",
+    "Historia/China",
+    "Historia",
+    "Religião/Egípcia/Egípcia.md",
+    "Religião/Egípcia/Khat.md",
+    "Itenização.canvas",
+    "Árvore Genealogica - Sumerica.canvas",
     "Religião/Coalização.canvas",
-    "Religião/Suméria/Anu.md",
-    "Leitura/Gilgamés, Enquidu e o Submundo.md",
-    "Religião/Suméria/Danquina.md",
     "Religião/Suméria",
-    "Religião/Cristã/Domínios.md",
-    "Religião/Cristã/Leviatã.md",
     "Religião/Mesopotâmica",
-    "Religião/Nórdica/Ragnarok.md",
     "Religião/Nórdica",
-    "Religião/Cristã/Behemoth.md",
-    "Religião/Arcanjos.md",
-    "Lotan.md",
-    "Sete Príncipes do Inferno.md",
-    "midias/Pasted image 20260822112748.png",
     "Religião/Irlandesa",
     "Religião/Cananeia",
     "Religião/Céltica",
     "Religião/Budismo",
-    "Itenização.canvas",
-    "Religião/Egípcia",
-    "midias/Pasted image 20260819232603.png",
-    "midias/Pasted image 20260819172729.png",
-    "midias/_lixeira/Pasted image 20260818150558.png",
-    "midias/_lixeira/Pasted image 20260818135918.png",
-    "midias/_lixeira",
-    "midias/Pasted image 20260818150558.png",
-    "midias/hinonacional.mp3",
-    "midias/Pasted image 20260818135918.png",
     "Pedro Netto/Fatec/Projeto de Redes de computadores/Planta Projeto de Redes de computadores.canvas",
-    "midias/_lixeira/Pasted image 20260818015731.png",
     "TSG.canvas",
     "Religião/Hierarquias.canvas",
     "midias/2026-04-16 - Simbolo.canvas",
     "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Definição de preço.canvas",
-    "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Elastic Load Balancing.canvas",
-    "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Escalabilidade.canvas"
+    "Tecnologia/Infraestrutura/Cloud/AWS/Canvas/Elastic Load Balancing.canvas"
   ]
 }

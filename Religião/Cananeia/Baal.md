@@ -36,3 +36,5 @@ Após algum tempo, saiu do seu esconderijo e trouxe novamente a vida a terra
 
 https://youtu.be/FWQG2uN9nNw?si=4i37LwfYkjUB73Wg
 https://storytellingdb-com.translate.goog/baal-canaanite/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=sge
+https://quem-escreveu-torto.blogspot.com/2009/04/seculo-xiii-aec-canaa-ugarit-o-epico-de.html
+https://ensaiosenotas.com/2022/06/24/o-ciclo-de-baal-em-ugarit/

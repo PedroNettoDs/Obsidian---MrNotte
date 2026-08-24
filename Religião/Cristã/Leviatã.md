@@ -16,3 +16,6 @@ Em salmos é descrito que ela foi derrotada por [[Deus]] e que sua carne foi ser
 
 Já no [[Livro de Isaías]], é dito que no fim dos tempos, haveria uma batalha com o Leviatã (*semelhante a Batalha do [[Ragnarok]]*)
 
+
+
+https://www.lrarcano.com/leviata-um-colossal-mostro-marinho-biblico/
