@@ -1,0 +1,1 @@
+Iniciada como uma organização sem fins lucrativos e se tornou a maior bolha de tecnologia do ano de 2023 pra frente :D

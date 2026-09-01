@@ -1,7 +1,7 @@
 A fórmula: 
 $Z = Z² + C$
 
-Define o famoso conjunto de **Mandelbrot**, um **fractal** de complexidade infinita gerado por uma regra matemática simples.
+Define o famoso conjunto de **Mandelbrot**, um **[[Fractal]]** de complexidade infinita gerado por uma regra matemática simples.
 
 o termo Fractal, foi identificado por **Benoit Mandelbrot**
 pesquisador chamado Jascha Sohl-Dickstein

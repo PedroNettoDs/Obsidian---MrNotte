@@ -1,3 +1,7 @@
+---
+aliases:
+  - brew
+---
 [[Gerenciador de Pacotes]] do [[MacOs]]
 
 Para realizar sua instalar utilizamos o seguinte comando em [[Bash]]
