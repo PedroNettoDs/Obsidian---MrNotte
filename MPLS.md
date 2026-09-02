@@ -1,0 +1,1 @@
+MPLS é uma tecnologia de comutação, para levar seus dados do ponto A ao ponto B

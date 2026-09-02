@@ -35,3 +35,36 @@ Fala sobre
 
 ---
 
+Voce sabe qual é o seu cliente?
+
+Sociedade, elaborar, quanto alguém deu de entrada... quanto foi trabalhar.
+Fazer prolabores sem misturar CNPJ com CPF, dinheiro da empresa, pagando coisas do dia a dia com o dinheiro da empresa.
+
+Quanto precisamos para abrir um négocio?
+exemplo, 300.000,00
+
+Ponto de equilibro!
+
+Abrir uma empresa, é assumir um custo.
+Precisamos entender o custo fixo: VPS, Aluguel.
+e temos também o custo variavel: melhora do serviço/contratar \pessoas/ferramentas.
+
+Custo total é Custo fixo + custo variavel.
+
+Mas quando produzimos algo, recebemos por isso, sendo nossa receita.
+
+e somente atingir o ponto de equilibro, é atingir a linha da porcentagem, aonde a receita encontra o custo e dai para cima, 
+é lucro.
+
+Ser empreendedor, não é fazer unicamente o serviço, é fazer a prospecção de cliente, controle de funcionário e funções.
+
+---
+É comum, que um empreendedor, saiba do que se trata seu négocio, pelo menos o mínimo para conversar com seus analistas e entender.
+
+Não se deve recortar o seus clientes, por exemplo: cabeleleiro, 'não corto cabelo de homem', 'não corto cabelo de mulher negra', 'n
+
+QUANTO CUSTOU O APAGão nos estados unidos.
+
+o que engorda o boi, é o olho do dono..
+
+
