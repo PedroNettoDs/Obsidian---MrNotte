@@ -6,5 +6,15 @@
       ],
       "key": "'"
     }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "Delete"
+    }
   ]
 }
