@@ -53,6 +53,7 @@ Em vez de utilizar um protocolo já existente, como o IPSec, o projeto foi desen
 **Segurança**
 Em 2004 a empresa CacheLogic, que atualmente possui o nome de Velocix, realizou pesquisas de seis meses e concluíu que aproximadamente 33% total de tráfego da internet era do BitTorrent, logo, e nessa época seu uso impactou o desempenho de provedores de internet, o que levou aos provedores de serviços de internet (ISPs) a limitar o tráfego BitTorrent, dessa forma, os desenvolvedores do BitTorrent, desenvolveram o [[Message Stream Encryption]] (MSE), com o objetivo de ocultar o tráfego e aumentar a confidencialidade e autenticação.
 
+<<<<<<< Updated upstream
 
 
 **Comunidade e pirataria**
@@ -67,6 +68,11 @@ O que acontece se eu criar dois .torrents com o mesmo hash?
 
 
 _(Referências: Diolinux / MeioBit)_
+=======
+arquivos grandes (como filmes, músicas, jogos) dividindo-os em pequenos pedaços, baixando-os de múltiplos usuários simultaneamente e enviando partes para outros, tornando o download mais rápido e eficiente que um download direto de um servidor central. 
+
+
+>>>>>>> Stashed changes
 
 https://diolinux.com.br/tecnologia/o-que-e-torrent-e-sua-importancia.html#
 
