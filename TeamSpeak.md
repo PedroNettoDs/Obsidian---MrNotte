@@ -1,0 +1,1 @@
+https://luanncurioso.dev/blog/self-hosting-teamspeak-oracle-free-vps

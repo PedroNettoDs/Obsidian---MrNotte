@@ -3,13 +3,16 @@ icon: FabDocker
 ---
 é um sistema de #virtualização que cria '[[Contêineres]]', sendo 'isolados' da sua máquina (caso não configurar).
 
+### Anatomia
+![[Tecnologia de armazenamento no Motor Docker]]
+
 ---
 #### Comandos úteis:
 Remover Volumes orfãos:
 ```bash
 docker volume prune -f
 ```
-## Instalação:
+### Instalação:
 
 #### Configuração de certificado e chaves.
 1. Atualizações do '**apt update**'
@@ -82,7 +85,7 @@ sudo docker run hello-world
 ```
 
 ---
-## Desinstalação:
+### Desinstalação:
 para desinstalar o Docker, siga:
 
 1. Remover o Docker Engine, CLI, Containerd e pacotes de composição:

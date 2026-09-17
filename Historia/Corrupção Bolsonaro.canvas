@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"2b6f0c3c9a9ccb26","type":"text","text":"### **Flávio Bolsonaro**","x":320,"y":-200,"width":240,"height":60,"color":"#ff0000"},
+		{"id":"c61bbb3d0abe4121","type":"text","text":"## **Jair Bolsonaro**","x":-180,"y":-419,"width":212,"height":60,"color":"#ff0000"},
+		{"id":"be81add92bc9ed94","type":"text","text":"**Bilhetes do 1º de maio\" (Lesa-Majestade, 2021):** \no PGR chegou a denunciar Bolsonaro por corrupção (pedido de 40 anos), alegando que os bilhetes visavam proteger emenda secreta de emenda orçamentária.\nEm outubro de 2025, a PGR retirou a denúncia por insuficiência de provas, com autorização do STF.","x":-1000,"y":-195,"width":409,"height":261},
+		{"id":"4e309474af853e4c","type":"text","text":"**Caixa 2 de 2014 (Lava Jato):**\nacusação de uso de dinheiro sujo para ele e aliados. \nEm  maio de 2020, o TRF-2 o absolviu (2 votos a 1)","x":-1000,"y":-511,"width":324,"height":152},
+		{"id":"a770587d3e9b2022","type":"text","text":"**Munições importadas (2016)**: \nfoi condenado em 1º grau, mas a condenação foi anulada em 2020.","x":-994,"y":-339,"width":334,"height":122},
+		{"id":"98c4f922dffdea6a","type":"text","text":"**Outras apurações:** \nhá registros de indícios investigados (ex.: suposta venda de cargo a um embaixador, propina a um militar nos EUA), mas nenhum deles levou a  condenação.","x":-1000,"y":100,"width":411,"height":144},
+		{"id":"780a19c7360c6fc8","type":"text","text":"**Contexto importante**:  \n Em agosto de 2025, o STF o condenou a 27 anos e 3 meses no julgamento da \"guerra  \n jurídica\" de 2023 mas por abolição violenta do Estado Democrático de Direito, golpe de  Estado, golpe institucional, dano qualificado e deterioração de patrimônio tombado.","x":-474,"y":100,"width":400,"height":210},
+		{"id":"136e0d2403ed356d","type":"text","text":"### **Eduardo Bolsonaro**","x":740,"y":-200,"width":275,"height":60,"color":"#ff0000"},
+		{"id":"9d30761ec3b3e581","type":"text","text":"### **Carlos Bolsonaro**","x":1200,"y":-200,"width":240,"height":60,"color":"#ff0000"}
+	],
+	"edges":[
+		{"id":"2adf5e023b5687e4","fromNode":"c61bbb3d0abe4121","fromSide":"bottom","toNode":"2b6f0c3c9a9ccb26","toSide":"top","color":"#ff0000"},
+		{"id":"6b34325eefab3171","fromNode":"c61bbb3d0abe4121","fromSide":"bottom","toNode":"136e0d2403ed356d","toSide":"top","color":"#ff0000"},
+		{"id":"d15f5ccf12104154","fromNode":"c61bbb3d0abe4121","fromSide":"bottom","toNode":"9d30761ec3b3e581","toSide":"top","color":"#ff0000"},
+		{"id":"6bbcb4da91c0e554","fromNode":"be81add92bc9ed94","fromSide":"right","toNode":"c61bbb3d0abe4121","toSide":"left"},
+		{"id":"7cb477f5ca748070","fromNode":"a770587d3e9b2022","fromSide":"right","toNode":"c61bbb3d0abe4121","toSide":"left"},
+		{"id":"e7bc39f9010c0b9a","fromNode":"4e309474af853e4c","fromSide":"right","toNode":"c61bbb3d0abe4121","toSide":"left"},
+		{"id":"404ccbd8c92810a0","fromNode":"98c4f922dffdea6a","fromSide":"right","toNode":"c61bbb3d0abe4121","toSide":"left"},
+		{"id":"ebbafc731f689873","fromNode":"c61bbb3d0abe4121","fromSide":"bottom","toNode":"780a19c7360c6fc8","toSide":"top","label":"Prisão"}
+	]
+}

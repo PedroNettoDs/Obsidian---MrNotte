@@ -33,6 +33,5 @@ O kernel é composto por **subsistemas**, cada um responsável por implementar f
 
 ---
 
-
-
+O **kernel** Não interpreta 'Nome de usuário', somente números e o nome de usuário é precisa de uma 'tradução' feita por cada /etc/[[passwd]]
 https://guialinux.uniriotec.br/kernel/

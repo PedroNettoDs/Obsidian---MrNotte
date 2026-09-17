@@ -59,6 +59,13 @@ Em 2004 a empresa CacheLogic, que atualmente possui o nome de Velocix, realizou 
 O que acontece se eu criar dois .torrents com o mesmo hash?
 
 
+**Redes sem Rastreador (DHT e PEX):** O seu texto explica muito bem os _Trackers_, mas o BitTorrent moderno consegue funcionar perfeitamente sem eles. Entenda como funcionam a _Distributed Hash Table_ (DHT) e o _Peer Exchange_ (PEX), que permitem que os usuários encontrem uns aos outros de forma 100% descentralizada.
+**DHT (Distributed Hash Table) e PEX (Peer Exchange):** O texto cita os _Trackers_ como fundamentais, mas hoje em dia o BitTorrent consegue funcionar mesmo se os Trackers caírem. O DHT cria uma rede global descentralizada onde cada usuário atua como um mini-rastreador. Pesquise como o DHT e o PEX são os verdadeiros responsáveis por fazer os **Magnet Links** funcionarem.
+
+**Usos Corporativos e Legais:** Vá além do estigma da pirataria. Investigue como empresas gigantes utilizam a tecnologia BitTorrent nos bastidores. O Facebook/Meta, o Twitter, a Blizzard (para atualização de jogos) e o _Internet Archive_ dependem fortemente de redes P2P para distribuir dados economizando milhões em servidores
+
+
+
 _(Referências: Diolinux / MeioBit)_
 
 https://diolinux.com.br/tecnologia/o-que-e-torrent-e-sua-importancia.html#

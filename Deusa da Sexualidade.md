@@ -1,0 +1,6 @@
+- **[[Ishtar]] (Mesopotâmia):** 
+	- Sendo a deusa mais antiga desta linhagem, ela era fortemente ligada ao leão (no seu aspecto de guerra) e à **pomba** (no seu aspecto de amor, fertilidade e desejo). Seus templos na Suméria e Babilônia frequentemente abrigavam ou eram decorados com figuras de pombas.
+- **[[Astarte]] (Fenícia):** 
+	- À medida que o culto se moveu para a costa do Mediterrâneo, os fenícios e cananeus consolidaram a pomba como o animal mais sagrado de Astarte. Em seus templos em Cartago e Chipre, pombas vivas eram criadas em santuários e consideradas extensões vivas da própria deusa.
+- **[[Afrodite]] (Grécia):** 
+	- Quando os gregos adotaram o culto dessa divindade oriental (especialmente através de rotas marítimas que passavam por Chipre), eles herdaram quase todos os seus símbolos. A pomba tornou-se o animal mais famoso de [Afrodite](https://pt.wikipedia.org/wiki/Afrodite), frequentemente retratada alimentando-se em suas mãos ou puxando sua carruagem alada.
