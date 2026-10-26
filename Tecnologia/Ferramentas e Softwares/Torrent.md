@@ -53,26 +53,18 @@ Em vez de utilizar um protocolo já existente, como o IPSec, o projeto foi desen
 **Segurança**
 Em 2004 a empresa CacheLogic, que atualmente possui o nome de Velocix, realizou pesquisas de seis meses e concluíu que aproximadamente 33% total de tráfego da internet era do BitTorrent, logo, e nessa época seu uso impactou o desempenho de provedores de internet, o que levou aos provedores de serviços de internet (ISPs) a limitar o tráfego BitTorrent, dessa forma, os desenvolvedores do BitTorrent, desenvolveram o [[Message Stream Encryption]] (MSE), com o objetivo de ocultar o tráfego e aumentar a confidencialidade e autenticação.
 
-<<<<<<< Updated upstream
-
-
 **Comunidade e pirataria**
 O que acontece se eu criar dois .torrents com o mesmo hash?
-
 
 **Redes sem Rastreador (DHT e PEX):** O seu texto explica muito bem os _Trackers_, mas o BitTorrent moderno consegue funcionar perfeitamente sem eles. Entenda como funcionam a _Distributed Hash Table_ (DHT) e o _Peer Exchange_ (PEX), que permitem que os usuários encontrem uns aos outros de forma 100% descentralizada.
 **DHT (Distributed Hash Table) e PEX (Peer Exchange):** O texto cita os _Trackers_ como fundamentais, mas hoje em dia o BitTorrent consegue funcionar mesmo se os Trackers caírem. O DHT cria uma rede global descentralizada onde cada usuário atua como um mini-rastreador. Pesquise como o DHT e o PEX são os verdadeiros responsáveis por fazer os **Magnet Links** funcionarem.
 
 **Usos Corporativos e Legais:** Vá além do estigma da pirataria. Investigue como empresas gigantes utilizam a tecnologia BitTorrent nos bastidores. O Facebook/Meta, o Twitter, a Blizzard (para atualização de jogos) e o _Internet Archive_ dependem fortemente de redes P2P para distribuir dados economizando milhões em servidores
 
-
-
 _(Referências: Diolinux / MeioBit)_
 =======
 arquivos grandes (como filmes, músicas, jogos) dividindo-os em pequenos pedaços, baixando-os de múltiplos usuários simultaneamente e enviando partes para outros, tornando o download mais rápido e eficiente que um download direto de um servidor central. 
 
-
->>>>>>> Stashed changes
 
 https://diolinux.com.br/tecnologia/o-que-e-torrent-e-sua-importancia.html#
 
