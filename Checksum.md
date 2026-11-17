@@ -1,1 +1,1 @@
-É um código único de números e letras, gerado a partir de cálculos dos dados de um arquivo e serve para provar que o arquivo baixado está perfeito e não sofreu nenhuma alteração.
+*É* um código único de números e letras, gerado a partir de cálculos dos dados de um arquivo e serve para provar que o arquivo baixado está perfeito e não sofreu nenhuma alteração.

@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"5c933197babf72f9","x":-460,"y":-136,"width":250,"height":60,"color":"1","type":"text","text":"**Mensalão (2005)**"},
+		{"id":"70d87d2b24b20fa1","x":-335,"y":23,"width":250,"height":60,"color":"1","type":"text","text":"**Lava Jato**"},
+		{"id":"57ccd3a06f056a9f","x":0,"y":23,"width":250,"height":60,"color":"1","type":"text","text":"**Odebrecht**"},
+		{"id":"efa3494fe9b107d1","x":102,"y":-136,"width":296,"height":60,"color":"1","type":"text","text":"**13º apartamento em Brasília**"},
+		{"id":"1e37d6f504993a53","x":-940,"y":-145,"width":370,"height":168,"color":"4","type":"text","text":"pagamento de **propina a parlamentares** do PT. \nO TSE cassou o mandato de  \n Dirceu, mas Lula não foi responsabilizado como autor; foi beneficiário  \n político."},
+		{"id":"37c1354b5d7b9fb8","x":-684,"y":140,"width":349,"height":198,"color":"4","type":"text","text":"em 2017–2018, Lula foi condenado por corrupção passiva e lavagem de dinheiro no caso do **Triplex** (apartamento 123 em Guarujá) e por supostos pagamentos da **Odebrecht**. \n Ele cumpriu parte da pena."},
+		{"id":"25a6eff21f820dba","x":440,"y":-61,"width":406,"height":100,"color":"4","type":"text","text":"há ação penal em andamento sobre um imóvel atribuído à família Lula, nunca formalmente ligado a ele."},
+		{"id":"acbef6eea03e6c6f","x":-120,"y":-320,"width":120,"height":60,"type":"text","text":"## **Lula**"},
+		{"id":"1f95416259896f7c","x":-560,"y":440,"width":398,"height":140,"type":"text","text":"Em 2021, o STF anulou as condenações da Lava Jato no caso Lula, reconhecendo a incompetência da 13ª Vara de Curitiba e apontando indícios de **parcialidade** do juiz **Sergio Moro** (e-mails revelados em 2021)."},
+		{"id":"8aae2aff6618a384","x":-406,"y":660,"width":393,"height":149,"type":"text","text":"Assim, não existe condenação transitada em julgado contra Lula por corrupção, o que,  \n no direito brasileiro, significa que ele é juridicamente  \n inocente"},
+		{"id":"8896f653c75e40f3","x":250,"y":160,"width":358,"height":159,"color":"4","type":"text","text":"ocumentos internos (\"**planilha V**\" / \"**Boca do Lixo**\") mencionam pagamentos a Lula, aliados e ao PT  mas o STF entendeu que as provas eram  \n insuficientes/indiretas."},
+		{"id":"8f59c29cd55b45ae","x":-260,"y":252,"width":440,"height":134,"type":"text","text":"O TCU, em 2019, **considerou ilegais doações** da **Odebrecht** ao **PT**:\nLula alegou não ter tido acesso; a defesa sustenta que não foi comprovada sua participação"},
+		{"id":"af94d20be852ef55","x":60,"y":510,"width":507,"height":331,"type":"text","text":"### Resumo honesto: \nhá documentos e investigações que **indicam** envolvimento do *partido e de aliados* em **esquemas de propina durante o governo Lula**, e há documentos da Odebrecht que o  \n mencionam.\n Porém, todas as condenações contra ele foram anuladas, e o caso permanece controverso para uns, provas de corrupção;\n Para outros, produto de um esquema que o STF e peritos (incluindo análises independentes) apontaram como viciado. Não há, hoje, uma condenação definitiva estabelecendo que ele é corrupto"}
+	],
+	"edges":[
+		{"id":"751a36598932f115","fromNode":"5c933197babf72f9","fromSide":"top","toNode":"acbef6eea03e6c6f","toSide":"bottom","fromEnd":"arrow","color":"1"},
+		{"id":"25baafe7efdb87b7","fromNode":"70d87d2b24b20fa1","fromSide":"top","toNode":"acbef6eea03e6c6f","toSide":"bottom","fromEnd":"arrow","color":"1"},
+		{"id":"7b7bf12723d488f3","fromNode":"57ccd3a06f056a9f","fromSide":"top","toNode":"acbef6eea03e6c6f","toSide":"bottom","fromEnd":"arrow","color":"1"},
+		{"id":"d8a4545b87f2b1a1","fromNode":"efa3494fe9b107d1","fromSide":"top","toNode":"acbef6eea03e6c6f","toSide":"bottom","fromEnd":"arrow","color":"1"},
+		{"id":"a10fb4683da9b417","fromNode":"1e37d6f504993a53","fromSide":"right","toNode":"5c933197babf72f9","toSide":"left","fromEnd":"arrow","color":"4"},
+		{"id":"427adbe3445ffb2c","fromNode":"37c1354b5d7b9fb8","fromSide":"right","toNode":"70d87d2b24b20fa1","toSide":"bottom","fromEnd":"arrow","color":"4"},
+		{"id":"64af531db49fb1e0","fromNode":"8896f653c75e40f3","fromSide":"left","toNode":"57ccd3a06f056a9f","toSide":"bottom","fromEnd":"arrow","color":"4"},
+		{"id":"3d50b906b9b155e6","fromNode":"25a6eff21f820dba","fromSide":"left","toNode":"efa3494fe9b107d1","toSide":"bottom","color":"4"},
+		{"id":"b93fe75aac5c134e","fromNode":"1f95416259896f7c","fromSide":"top","toNode":"37c1354b5d7b9fb8","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"0b617dc7fe8465ed","fromNode":"8aae2aff6618a384","fromSide":"top","toNode":"1f95416259896f7c","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"d8d61de2b00f1bc6","fromNode":"37c1354b5d7b9fb8","fromSide":"right","toNode":"8f59c29cd55b45ae","toSide":"left"},
+		{"id":"9418e2cf2ee3fbfd","fromNode":"8f59c29cd55b45ae","fromSide":"top","toNode":"57ccd3a06f056a9f","toSide":"bottom"}
+	]
+}

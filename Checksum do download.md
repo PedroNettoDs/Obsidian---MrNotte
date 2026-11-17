@@ -17,6 +17,11 @@ foi assim me devolvido:
 
 Para resolver isso, precisaremos utilizar o comando:
 ```bash
+sha256sum -c conteudo.sha256
+```
+Na mesma pasta aonde está o arquivo baixado e 
+
+```bash
 sha256sum /caminho/do/arquivo.iso | awk '{print $1}' | od -An -v -t d1 | awk '{s+=$1} END {print s}'
 ```
 O que este comando faz passo a passo:
