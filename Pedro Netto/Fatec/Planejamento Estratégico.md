@@ -1,3 +1,5 @@
+### Aula ministrada pelo professor Kleber
+
 Definiçao do que eu quero, para uma empresa?
 - Definição do négocio (Teoria do Negócio)
 
@@ -102,11 +104,71 @@ Demanda é consumidor.
 		- As empresas com patente, denunciaram para o OMC.
 - coisas que não 
 
-
-
-
 ### Oligopolio
 [![Monopólios por todos os lados : r/Anticonsumption](https://preview.redd.it/monopolies-everywhere-v0-f33ajk475yre1.jpeg?auto=webp&s=addd09e916178b35a5a387aeb3e411fe8f8b5412)](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FAnticonsumption%2Fcomments%2F1jnuee4%2Fmonopolies_everywhere%2F%3Ftl%3Dpt-br&ved=0CBYQjRxqFwoTCKD9gJrzp5YDFQAAAAAdAAAAABA4&opi=89978449)
 Organização CADE, controla para evitar monopolio.
 
 
+---
+
+### 16/11/26
+
+**Produção é separavel** (as pessoas não notam como é feito, você pode fazer comida de CUECA!, mas o importante é não estar 'sujo' ou 'ruim'), não importa quem fabricou, ninguém sabe se foi produzido por crianças
+
+**Serviço é essencial**, pois se o serviço sendo feito em cima/execução do produto que foi produzido
+
+---
+Produção é fácil de padronizar.
+Porém o serviço varia de acordo com o cliente, exemplo, se eu fizer uma instalação de ventilador em uma casa foi perfeito, mas em outro, pode não ter sequer outras fases de energia, pode estar faltando o interruptor que você sabe que é bom e mesmo que você recomende,.
+
+---
+
+Intangibilidade do serviço, não há como guardamos todo o serviço prestado, por isso, precisamos marcar na memória, agora o Produto, podemos comprar e dizer "é meu"
+
+---
+
+Pecibilidade
+Serviço tem o prazo de validade baixo, pois o serviço exemplo, de uma aula de um professor, deve ser consumido naquele momento, o professor pode até repetir a aula e o assunto, mas não será o mesma da anterior.
+Diferentemente de produto, que podemos estocar, pois pode ser 'reconsumido várias vezes', exemplo, se eu gravar a aula, terá como consumir ela novamente.
+
+| Produto        | Serviço        |
+| -------------- | -------------- |
+| Separável      | Inserparável   |
+| Padronizar     | Variável       |
+| Tangível       | Intangível     |
+| Pecibilidade > | Pecibilidade < |
+
+---
+
+4 P's
+- **Produto** (profissional)
+	- produto e serviço serve para saciar nossa necessidade
+	nosso coração tem que ter sentimento de que 'isso valeu a pena'
+- **Preço**
+	- Produto é fácil de medir valor.
+		*Posso deixar dois produtos do lado um do outro e comparar as caracteristicas de cada um.*
+		Agora o serviço, não, é só na hora e com base na experiência.
+		*"ah! mas você está recebendo 100.000,00 para fazer isso e o coleguinha pede 10.000,00"*
+			Por isso que o serviço prestado precisa trazer todo o valor de seu conhecimento e seus fluxos.
+- **Praça**
+	
+- **Promoção**
+
+---
+Quando vamos prestar um serviço, não podemos passar vergonha, pois se o produto é mal vendido e o serviço é mal executado.
+é seu nome que está em jogo.
+
+> um médico só é bom, pelo serviço que ele executou naquele momento, não somente os atendimentos anteriores.
+> **Kleber**
+
+---
+
+Vamos supor que temos um salão de cabelo.
+Precisamos ter uma estrutura que atenda a necessidade dele, vamos exemplificar, se toda vez que o cliente chega a minha porta, estou ocupado e não consigo cortar o cabelo dele, preciso tentar solucionar esse problema de alguma forma, exemplo, ter mais uma cadeira e um funcionário a mais ou possuir um sistema de agendamento do mesmo.
+
+---
+
+O que vai cair na prova no segundo semetre?
+- Gestão de mudança
+- Gestão de conflito
+- Marketing de Serviços

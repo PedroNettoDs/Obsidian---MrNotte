@@ -1,0 +1,1 @@
+É uma qualidade a um sujeito (algo alguém)

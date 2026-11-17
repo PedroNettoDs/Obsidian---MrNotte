@@ -1,3 +1,4 @@
+
 **Sobre o Torrent e o Protocolo BitTorrent**
 O Torrent, ou 'BitTorrent', é um protocolo online de compartilhamento e download de arquivos baseado na arquitetura P2P (_peer-to-peer_ ou ponto-a-ponto), criado pelo programador Bram Cohen em 2001.
 
@@ -55,6 +56,21 @@ Em 2004 a empresa CacheLogic, que atualmente possui o nome de Velocix, realizou 
 
 <<<<<<< Updated upstream
 
+---
+
+**Tracker**
+São computadores que guiam a localização do mesmo arquivo na rede e realiza assim a distribuição eficiente, pontuando qual desses computadores vão transmitir qual parte do arquivo, trazendo harmonia ao denominado enxame (swarms).
+O qBitTorrent, possui consigo uma configuração para habilitarmos a ferramenta para criação desses Trackers (Rastreadores), em uma rede interna LAN.
+Podemos então criar uma distribuição de arquivos descentralizado e sem acesso a internet, esse tráfego comumente é transmitido pela porta 9000
+Assim que habilitado, podemos criar um arquivo Torrent
+
+**Anatomina do arquivo Torrent**
+Importante destacar que o arquivo torrent não carrega o arquivo, esse é o motivo do arquivo ser bem pequeno, na casa de kilobytes, pois esses 'arquivos do Torrent'  são na realidade arquivos de meta-info, carregando em sua anatomina
+
+![examine torrent file raw content](https://media.geeksforgeeks.org/wp-content/uploads/20191205201023/examineadastra1.png "Click to enlarge")
+
+utilizam a terminação final `.torrent` contendo metadados sobre os arquivos que pertencem a esse compartilhamento, são hashs que autentificam a transferência devida dos arquivos.
+
 
 **Comunidade e pirataria**
 O que acontece se eu criar dois .torrents com o mesmo hash?
@@ -64,9 +80,14 @@ _(Referências: Diolinux / MeioBit)_
 =======
 arquivos grandes (como filmes, músicas, jogos) dividindo-os em pequenos pedaços, baixando-os de múltiplos usuários simultaneamente e enviando partes para outros, tornando o download mais rápido e eficiente que um download direto de um servidor central. 
 
+### Projeto com torrent
+Diante que a Fatec hoje, não possuí fileserver por sobrecarregar a rede, tivemos um interesse para transformar a comunicação e adesão de arquivos, no método P2P, para que seja feito um RASTREADOR de arquivos e semeadores dele (pesquisar mais sobre isso.)
 
 >>>>>>> Stashed changes
+
+https://www.csd.uoc.gr/~hy558/papers/bittorrent.pdf
 
 https://diolinux.com.br/tecnologia/o-que-e-torrent-e-sua-importancia.html#
 
 https://meiobit.com/467895/bittorrent-25-anos-historia/
+

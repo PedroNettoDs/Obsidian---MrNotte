@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"743a0cf7103c4db5","x":-246,"y":-141,"width":126,"height":60,"type":"text","text":"Friend**ly**"},
+		{"id":"ca7ea4842a8011d4","x":-47,"y":-199,"width":67,"height":60,"type":"text","text":"Adv"},
+		{"id":"cc1ec3d4cca99a2a","x":-49,"y":-80,"width":69,"height":60,"type":"text","text":"Adj"},
+		{"id":"61275de0a699abfa","x":60,"y":-300,"width":250,"height":60,"type":"text","text":"Intensidade"},
+		{"id":"6b031083dfd98c18","x":60,"y":-199,"width":250,"height":60,"type":"text","text":"More friendly"},
+		{"id":"ba4d6b4c7bcf2094","x":63,"y":-78,"width":277,"height":60,"type":"text","text":"She is friendlier than her sister"}
+	],
+	"edges":[
+		{"id":"53998e5dd55da4ab","fromNode":"743a0cf7103c4db5","fromSide":"right","toNode":"ca7ea4842a8011d4","toSide":"left"},
+		{"id":"f77ed70e1a336a5f","fromNode":"743a0cf7103c4db5","fromSide":"right","toNode":"cc1ec3d4cca99a2a","toSide":"left"},
+		{"id":"7499cd03164a7212","fromNode":"ca7ea4842a8011d4","fromSide":"right","toNode":"6b031083dfd98c18","toSide":"left"},
+		{"id":"f6ce0ed34f7e723f","fromNode":"cc1ec3d4cca99a2a","fromSide":"right","toNode":"ba4d6b4c7bcf2094","toSide":"left"}
+	]
+}

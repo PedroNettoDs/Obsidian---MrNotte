@@ -68,3 +68,4 @@ QUANTO CUSTOU O APAGão nos estados unidos.
 o que engorda o boi, é o olho do dono..
 
 
+ø

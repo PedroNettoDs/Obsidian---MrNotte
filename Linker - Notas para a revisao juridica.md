@@ -1,0 +1,6 @@
+- **Vínculo Empregatício / Classificação:** Avaliar a relação jurídica com os prestadores (_helpers_), considerando testes de leis estaduais nos EUA (como o _ABC Test_) e a legislação brasileira de trabalho para evitar passivos de reconhecimento de vínculo.
+- **Privacidade e Tecnologias (LGPD e Leis dos EUA):**
+    - O uso de identificadores de instalação do aparelho e geolocalização em relação a vedações de _fingerprinting_ da Apple/Google e exigências de consentimento (_opt-in_).
+    - O tratamento da declaração de documentos/status de trabalho como dado sensível em legislações estaduais americanas (CPRA).
+    - A incidência simultânea da LGPD (caso haja operação ou servidores no Brasil) e o respectivo Relatório de Impacto.
+- **Resolução de Conflitos e Consumidor:** Validação das cláusulas de arbitragem individual nos EUA com renúncia a ações coletivas, conformidade com regras da FTC sobre avaliações de usuários e adequação a normas de proteção de menores (COPPA e ECA Digital).****
