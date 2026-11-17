@@ -1,3 +1,4 @@
+
 **Sobre o Torrent e o Protocolo BitTorrent**
 O Torrent, ou 'BitTorrent', é um protocolo online de compartilhamento e download de arquivos baseado na arquitetura P2P (_peer-to-peer_ ou ponto-a-ponto), criado pelo programador Bram Cohen em 2001.
 
@@ -53,13 +54,27 @@ Em vez de utilizar um protocolo já existente, como o IPSec, o projeto foi desen
 **Segurança**
 Em 2004 a empresa CacheLogic, que atualmente possui o nome de Velocix, realizou pesquisas de seis meses e concluíu que aproximadamente 33% total de tráfego da internet era do BitTorrent, logo, e nessa época seu uso impactou o desempenho de provedores de internet, o que levou aos provedores de serviços de internet (ISPs) a limitar o tráfego BitTorrent, dessa forma, os desenvolvedores do BitTorrent, desenvolveram o [[Message Stream Encryption]] (MSE), com o objetivo de ocultar o tráfego e aumentar a confidencialidade e autenticação.
 
+<<<<<<< Updated upstream
+
+---
+
+**Tracker**
+São computadores que guiam a localização do mesmo arquivo na rede e realiza assim a distribuição eficiente, pontuando qual desses computadores vão transmitir qual parte do arquivo, trazendo harmonia ao denominado enxame (swarms).
+O qBitTorrent, possui consigo uma configuração para habilitarmos a ferramenta para criação desses Trackers (Rastreadores), em uma rede interna LAN.
+Podemos então criar uma distribuição de arquivos descentralizado e sem acesso a internet, esse tráfego comumente é transmitido pela porta 9000
+Assim que habilitado, podemos criar um arquivo Torrent
+
+**Anatomina do arquivo Torrent**
+Importante destacar que o arquivo torrent não carrega o arquivo, esse é o motivo do arquivo ser bem pequeno, na casa de kilobytes, pois esses 'arquivos do Torrent'  são na realidade arquivos de meta-info, carregando em sua anatomina
+
+![examine torrent file raw content](https://media.geeksforgeeks.org/wp-content/uploads/20191205201023/examineadastra1.png "Click to enlarge")
+
+utilizam a terminação final `.torrent` contendo metadados sobre os arquivos que pertencem a esse compartilhamento, são hashs que autentificam a transferência devida dos arquivos.
+
+
 **Comunidade e pirataria**
 O que acontece se eu criar dois .torrents com o mesmo hash?
 
-**Redes sem Rastreador (DHT e PEX):** O seu texto explica muito bem os _Trackers_, mas o BitTorrent moderno consegue funcionar perfeitamente sem eles. Entenda como funcionam a _Distributed Hash Table_ (DHT) e o _Peer Exchange_ (PEX), que permitem que os usuários encontrem uns aos outros de forma 100% descentralizada.
-**DHT (Distributed Hash Table) e PEX (Peer Exchange):** O texto cita os _Trackers_ como fundamentais, mas hoje em dia o BitTorrent consegue funcionar mesmo se os Trackers caírem. O DHT cria uma rede global descentralizada onde cada usuário atua como um mini-rastreador. Pesquise como o DHT e o PEX são os verdadeiros responsáveis por fazer os **Magnet Links** funcionarem.
-
-**Usos Corporativos e Legais:** Vá além do estigma da pirataria. Investigue como empresas gigantes utilizam a tecnologia BitTorrent nos bastidores. O Facebook/Meta, o Twitter, a Blizzard (para atualização de jogos) e o _Internet Archive_ dependem fortemente de redes P2P para distribuir dados economizando milhões em servidores
 
 ---
 
@@ -71,6 +86,12 @@ _(Referências: Diolinux / MeioBit)_
 =======
 arquivos grandes (como filmes, músicas, jogos) dividindo-os em pequenos pedaços, baixando-os de múltiplos usuários simultaneamente e enviando partes para outros, tornando o download mais rápido e eficiente que um download direto de um servidor central. 
 
+### Projeto com torrent
+Diante que a Fatec hoje, não possuí fileserver por sobrecarregar a rede, tivemos um interesse para transformar a comunicação e adesão de arquivos, no método P2P, para que seja feito um RASTREADOR de arquivos e semeadores dele (pesquisar mais sobre isso.)
+
+>>>>>>> Stashed changes
+
+https://www.csd.uoc.gr/~hy558/papers/bittorrent.pdf
 
 https://diolinux.com.br/tecnologia/o-que-e-torrent-e-sua-importancia.html#
 

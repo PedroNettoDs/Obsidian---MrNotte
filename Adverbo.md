@@ -1,0 +1,1 @@
+É uma qualidade de um Verbo
