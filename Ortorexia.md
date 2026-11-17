@@ -1,0 +1,1 @@
+obsessão patológica e exagerada por alimentação saudável, pureza dos ingredientes e controle rígido da dieta

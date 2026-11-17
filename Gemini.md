@@ -1,0 +1,1 @@
+Gemini deu Spoiler de um livro que não foi publicado, mas a IA sabia pois estava no DRIVE PESSOAL do autor

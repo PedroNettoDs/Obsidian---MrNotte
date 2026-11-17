@@ -1,0 +1,1 @@
+É um modelo de inteligência artificial criado pela TypeSafe AI que foca exclusivamente em tomar decisões em vez de gerar textos ou conversas

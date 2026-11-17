@@ -110,3 +110,28 @@ Demanda é consumidor.
 Organização CADE, controla para evitar monopolio.
 
 
+---
+## O que é desenvolvido na fase de Diagnóstico Estratégico?
+
+Na fase de **Diagnóstico Estratégico** é realizado o levantamento como buscas de requisitos e até mesmo compreender a situação atual da organização e como ela se comporta.
+
+Sendo assim analisado por exemplo:
+	**Recursos e capacidades**:
+		Avaliação dos recursos financeiros, tecnológicos, materiais e do capital humano.
+	**Pontos Fortes e Fracos**:
+		Identifica o que a empresa faz de melhor e suas deficiências
+	**Desempenho**:
+		Análise de métricas, velocidade de processos analise de resultados anteriores.
+
+Dessa forma, podemos dizer que é produzido propriamente dito a documentação estratégica da empresa.
+
+### Como funciona a Análise SWOT
+A análise SWOT (FOFA) é o cruzamento entre **Forças e Fraquezas** com **Oportunidades e Ameaças** é uma das formas de se messar e mapear essa situação da empresa, cruzando os fatores internos e cenários Externos, com a sua análise podemos definir o que está impactando o projeto ao todo.
+
+Fatores internos, cujo o controle depende da empresa ou Externos, aonde não é possível haver controle.
+
+
+### O que são Propósitos e políticas estratégicas
+São os pilhares de uma identidade definida de uma organização/projeto.
+Sendo necessário 'fixar' algum ideal "quero ser a maior empresa", 
+"quero sera empresa mais legal". "quero ser a empresa mais cara" e dessa forma, podemos traçar planos para GARANTIR que isso seja sempre verdade.

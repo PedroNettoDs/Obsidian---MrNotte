@@ -1,4 +1,6 @@
 {
-  "cssTheme": "Border",
-  "accentColor": "#004cff"
+  "cssTheme": "",
+  "accentColor": "#004cff",
+  "theme": "obsidian",
+  "showRibbon": true
 }

@@ -1,0 +1,3 @@
+Package é um arquivo compactado ou [[Diretórios|Diretório]] que contém tudo que um [[Software]] precisa para instalar, configurar e executar o [[programa]], acompanhado das intruções sobre como ele deve interagir com o [[Sistema Operacional]]
+
+O Package tem como objetivo resolver o [[Dependency Hell]]. pois sem os pacotes necessários, o software exigiria baixar o [[código-fonte]] manualmente para [[Compilador|compilar]] tudo na máquina.

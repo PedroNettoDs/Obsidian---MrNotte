@@ -1,0 +1,1 @@
+Conecta um pendrive por 15 segundos e ele puxará todas as senhas.

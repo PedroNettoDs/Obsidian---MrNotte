@@ -1,0 +1,1 @@
+Como lavar dinheiro de forma digital, temos aqui uma plataforma que você pode criar um produto digital e depois sacar, pois são um banco virtual também, dessa forma, caso eu consiga acessar a conta de alguém muito rico

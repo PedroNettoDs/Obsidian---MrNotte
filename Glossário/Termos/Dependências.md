@@ -8,9 +8,10 @@ Bom, não sei exatamente o que escrever sobre 'dependência' que não seja propr
 Ou seja, é algo que precisa existir para que outra viva.
 
 Podemos levar isso para o sentido mais filosófico, sobre o que é existir, mas vamos deixar somente com isso, tá bom né?
+> Logo, para alguma personalidade minha se manter viva, ela pode fazer de tudo por isso, logo posso ser dependente de qualquer coisa.
 
 ---
-Em 'Desenvolvimento', 'Instalações' e afins, a dependência pode ser por exemplo:
+Em '[[Desenvolvimento]]', 'Instalações' e afins, a dependência pode ser por exemplo:
 *Baixei um script em Python, para rodar, eu preciso do Python na minha máquina, além do Python em minha máquina, o script utiliza um código de uma biblioteca X, logo preciso instalar essa biblioteca*
 
 Agora, se você não sabe o que é uma [[Biblioteca]], irmão? WTF.

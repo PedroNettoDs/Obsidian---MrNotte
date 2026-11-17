@@ -1,0 +1,1 @@
+Empresa que explodiu de investimento após sua [[IPO]]

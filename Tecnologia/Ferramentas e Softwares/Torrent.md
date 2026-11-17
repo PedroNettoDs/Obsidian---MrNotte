@@ -61,6 +61,12 @@ O que acontece se eu criar dois .torrents com o mesmo hash?
 
 **Usos Corporativos e Legais:** Vá além do estigma da pirataria. Investigue como empresas gigantes utilizam a tecnologia BitTorrent nos bastidores. O Facebook/Meta, o Twitter, a Blizzard (para atualização de jogos) e o _Internet Archive_ dependem fortemente de redes P2P para distribuir dados economizando milhões em servidores
 
+---
+
+## Bram Cohen
+Seu criador demonstrou ser um destaque desde pequeno: por exemplo, sabia programar na linguagem BASIC aos cinco anos e foi qualificado em olimpíada de matemática. Essa mente tão genial não coube na faculdade, e ele abandonou os estudos para trabalhar na startup Evil Geniuses for a Better Tomorrow, fundada por Jim McCoy, onde teve contato com o Mojo Nation.
+
+
 _(Referências: Diolinux / MeioBit)_
 =======
 arquivos grandes (como filmes, músicas, jogos) dividindo-os em pequenos pedaços, baixando-os de múltiplos usuários simultaneamente e enviando partes para outros, tornando o download mais rápido e eficiente que um download direto de um servidor central. 
@@ -69,3 +75,4 @@ arquivos grandes (como filmes, músicas, jogos) dividindo-os em pequenos pedaço
 https://diolinux.com.br/tecnologia/o-que-e-torrent-e-sua-importancia.html#
 
 https://meiobit.com/467895/bittorrent-25-anos-historia/
+

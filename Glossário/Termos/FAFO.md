@@ -1,0 +1,1 @@
+O FAFO é um acrônimo em inglês para “F* Around and Find Out”** (ou na versão mais educada, “Fool Around and Find Out”), que pode ser traduzido livremente como “Mexer com fogo e acabar se queimando” ou “Brincar com o perigo e arcar com as consequências”.

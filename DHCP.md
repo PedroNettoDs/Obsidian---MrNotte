@@ -25,8 +25,6 @@ REGRA DA VIDA, TODO SERVIÇO DE REDE, QUE PRECISA SER ENCONTRADO, NECESSARIAMENT
 As configurações de FIXO precisa ser para SERVIDOR, BANCO DE DADOS, IMPRESSORA.
 DHCP AUTOMATICO, somente nas máquinas HOSTs.
 
-
-
 https://www.fortinet.com/br/resources/cyberglossary/dynamic-host-configuration-protocol-dhcp
 
 

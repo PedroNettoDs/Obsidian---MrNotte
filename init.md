@@ -1,0 +1,1 @@
+o comando nem sistemas [[Linux]], muda o sistema para o modo 'único' (single-user mode)

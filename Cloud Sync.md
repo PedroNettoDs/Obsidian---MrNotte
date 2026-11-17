@@ -1,0 +1,1 @@
+Para que eu possa utilizar o [[claude-mem]] em mais de um computador ao mesmo tempo, preciso 
